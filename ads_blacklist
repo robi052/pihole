@@ -2,6 +2,7 @@
 # Last update: 2019-05-10
 
 127.0.0.1	localhost
+::1 localhost
 
 127.0.0.1 ads.yieldmo.com
 127.0.0.1 ads.dnevnik.hr
