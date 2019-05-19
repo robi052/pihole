@@ -4,6 +4,7 @@
 127.0.0.1 localhost
 ::1 localhost
 
+127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 adhr.hit.gemius.pl
 127.0.0.1 ads.yieldmo.com
 127.0.0.1 ads.dnevnik.hr
@@ -11,7 +12,7 @@
 127.0.0.1 cdn.midas-network.com
 127.0.0.1 eph-adsjutarnji.cdn.sysbee.net
 127.0.0.1 gdehr.hit.gemius.pl
+127.0.0.1 get.s-onetag.com
 127.0.0.1 relay-hr.ads.httpool.com
 127.0.0.1 www.midas-network.com
 127.0.0.1 www3.smartadserver.com
-127.0.0.1 adclick.g.doubleclick.net
