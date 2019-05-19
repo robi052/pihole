@@ -3,16 +3,16 @@
 # E-mail: rbilic@gmail.com
 # Last update: 2019-05-19
 
-adclick.g.doubleclick.net
-adhr.hit.gemius.pl
-ads.yieldmo.com
-ads.dnevnik.hr
-adservice.google.hr
-cdn.midas-network.com
-cm.adform.net
-eph-adsjutarnji.cdn.sysbee.net
-gdehr.hit.gemius.pl
-get.s-onetag.com
-relay-hr.ads.httpool.com
-www.midas-network.com
-www3.smartadserver.com
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 adhr.hit.gemius.pl
+0.0.0.0 ads.yieldmo.com
+0.0.0.0 ads.dnevnik.hr
+0.0.0.0 adservice.google.hr
+0.0.0.0 cdn.midas-network.com
+0.0.0.0 cm.adform.net
+0.0.0.0 eph-adsjutarnji.cdn.sysbee.net
+0.0.0.0 gdehr.hit.gemius.pl
+0.0.0.0 get.s-onetag.com
+0.0.0.0 relay-hr.ads.httpool.com
+0.0.0.0 www.midas-network.com
+0.0.0.0 www3.smartadserver.com
