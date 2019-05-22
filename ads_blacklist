@@ -1,12 +1,13 @@
 # Roberto Bilic ads blacklist
 # Pi-Hole blacklist based on croatian web
 # E-mail: rbilic@gmail.com
-# Last update: 2019-05-19
+# Last update: 2019-05-22
 
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 adhr.hit.gemius.pl
 0.0.0.0 ads.yieldmo.com
 0.0.0.0 ads.dnevnik.hr
+0.0.0.0 adserver.iprom.net
 0.0.0.0 adservice.google.hr
 0.0.0.0 cdn.midas-network.com
 0.0.0.0 cm.adform.net
