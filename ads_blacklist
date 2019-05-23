@@ -21,7 +21,7 @@
 0.0.0.0 www.midas-network.com
 0.0.0.0 www3.smartadserver.com
 
-# Adguard filter
+# Regex filter - Testing
 ||adocean.pl^$third-party
 ||doubleclick.net^
 ^prebid-
@@ -30,3 +30,5 @@
 ||facebook.net^*/fbevents.js$third-party
 ^nr-data.net^$third-party
 ^get_links_*&zone=
+^adtrack(er|ing)?[0-9]*[-.]
+^advert(s|is(ing|ements?))?[0-9]*[-_.]
