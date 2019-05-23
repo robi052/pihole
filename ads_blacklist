@@ -1,6 +1,7 @@
 # Roberto Bilic ads blacklist
 # Pi-Hole blacklist based on croatian web
 # E-mail: rbilic@gmail.com
+# Tags: ads, advertise
 # Last update: 2019-05-23
 
 0.0.0.0 adclick.g.doubleclick.net
@@ -20,17 +21,4 @@ adv.slobodnadalmacija.hr
 0.0.0.0 relay-hr.ads.httpool.com
 0.0.0.0 www.midas-network.com
 0.0.0.0 www3.smartadserver.com
-
-# Regex filter - Testing
-^advert(s|is(ing|ements?))?[0-9]*[-_.]
-^aff(iliat(es?|ion))?[-.]
-^analytics?[-.]
-^banners?[-.]
-^beacons?[0-9]*[-.]
-^count(ers?)?[0-9]*[-.]
-^pixels?[-.]
-^get_links[_*]
-^stat(s|istics)?[0-9]*[-.]
-^telemetry[-.]
-^track(ers?|ing)?[0-9]*[-.]
-^traff(ic)?[-.]
+10.0.0.2 www.24sata.hr
