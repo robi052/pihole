@@ -23,8 +23,9 @@
 # Adguard filter
 ||adocean.pl^$third-party
 ||doubleclick.net^
-/prebid-
+^prebid-
 /googleads.$domain=~googleads.blog|~googleads.media
-/securepubads.
+^securepubads.
 ||facebook.net^*/fbevents.js$third-party
 ^nr-data.net^$third-party
+^get_links_*&zone=
