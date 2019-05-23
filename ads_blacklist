@@ -22,12 +22,14 @@
 0.0.0.0 www3.smartadserver.com
 
 # Regex filter - Testing
-||adocean.pl^$third-party
-||doubleclick.net^
-^prebid-
-/googleads.$domain=~googleads.blog|~googleads.media
-^securepubads.
-||facebook.net^*/fbevents.js$third-party
-^nr-data.net^$third-party
-^adtrack(er|ing)?[0-9]*[-.]
 ^advert(s|is(ing|ements?))?[0-9]*[-_.]
+^aff(iliat(es?|ion))?[-.]
+^analytics?[-.]
+^banners?[-.]
+^beacons?[0-9]*[-.]
+^count(ers?)?[0-9]*[-.]
+^pixels?[-.]
+^stat(s|istics)?[0-9]*[-.]
+^telemetry[-.]
+^track(ers?|ing)?[0-9]*[-.]
+^traff(ic)?[-.]
