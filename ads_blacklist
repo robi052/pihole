@@ -20,8 +20,6 @@
 0.0.0.0 www.midas-network.com
 0.0.0.0 www3.smartadserver.com
 
-10.0.0.2 www.jutarnji.hr
-
 # Adguard filter
 ||adocean.pl^$third-party
 ||doubleclick.net^
@@ -29,3 +27,4 @@
 /googleads.$domain=~googleads.blog|~googleads.media
 /securepubads.
 ||facebook.net^*/fbevents.js$third-party
+||nr-data.net^$third-party
