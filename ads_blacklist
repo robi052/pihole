@@ -24,3 +24,6 @@
 ||adocean.pl^$third-party
 ||doubleclick.net^
 /prebid-
+/googleads.$domain=~googleads.blog|~googleads.media
+/securepubads.
+||facebook.net^*/fbevents.js$third-party
