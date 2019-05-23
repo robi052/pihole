@@ -29,6 +29,5 @@
 ^securepubads.
 ||facebook.net^*/fbevents.js$third-party
 ^nr-data.net^$third-party
-^get_links_*&zone=
 ^adtrack(er|ing)?[0-9]*[-.]
 ^advert(s|is(ing|ements?))?[0-9]*[-_.]
