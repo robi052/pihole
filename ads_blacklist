@@ -27,4 +27,4 @@
 /googleads.$domain=~googleads.blog|~googleads.media
 /securepubads.
 ||facebook.net^*/fbevents.js$third-party
-||nr-data.net^$third-party
+^nr-data.net^$third-party
