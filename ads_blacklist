@@ -22,3 +22,5 @@
 
 # Adguard filter
 ||adocean.pl^$third-party
+||doubleclick.net^
+/prebid-
