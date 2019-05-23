@@ -29,6 +29,7 @@
 ^beacons?[0-9]*[-.]
 ^count(ers?)?[0-9]*[-.]
 ^pixels?[-.]
+^get_links[_*]
 ^stat(s|istics)?[0-9]*[-.]
 ^telemetry[-.]
 ^track(ers?|ing)?[0-9]*[-.]
