@@ -11,7 +11,6 @@
 0.0.0.0 adserver.iprom.net
 0.0.0.0 adservice.google.hr
 0.0.0.0 adv.slobodnadalmacija.hr
-0.0.0.0 carambo.la
 0.0.0.0 cdn.connectad.io
 0.0.0.0 cdn.midas-network.com
 0.0.0.0 cm.adform.net
@@ -19,6 +18,9 @@
 0.0.0.0 gdehr.hit.gemius.pl
 0.0.0.0 get.s-onetag.com
 0.0.0.0 hr.adocean.pl
+0.0.0.0 logging.carambo.la
+0.0.0.0 pixel.carambo.la
 0.0.0.0 relay-hr.ads.httpool.com
+0.0.0.0 xtr.carambo.la
 0.0.0.0 www.midas-network.com
 0.0.0.0 www3.smartadserver.com
