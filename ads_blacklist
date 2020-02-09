@@ -4,8 +4,6 @@
 # Tags: ads, advertise
 # Last update: 2020-02-09
 
-0.0.0.0 (^|\.)nbryb\.com$
-
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 adhr.hit.gemius.pl
 0.0.0.0 ads.yieldmo.com
