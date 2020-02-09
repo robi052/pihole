@@ -2,7 +2,9 @@
 # Pi-Hole blacklist based on croatian web
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
-# Last update: 2020-01-27
+# Last update: 2020-02-09
+
+0.0.0.0 (^|\.)nbryb\.com$
 
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 adhr.hit.gemius.pl
