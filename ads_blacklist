@@ -172,57 +172,57 @@ www.mgid.com
 s-img.mgid.com
 www.midas-network.com
 cdn.midas-network.com
-minero-proxy-01.now.sh
-minero-proxy-02.now.sh
-minero-proxy-03.now.sh
-minero.pw
-apx.moatads.com
-dbg52463.moatads.com
-js.moatads.com
-px.moatads.com
-s.moatads.com
-svastx.moatads.com
-vastx.moatads.com
-z.moatads.com
-ads.mopub.com
-admin.adserver.mopub.com
-admin.mpx.mopub.com
-adpreview.mopub.com
-adserver.mopub.com
-motionfree.pro
-hr3.motionfree.pro
-nativemedia.rs
-display.nativemedia.rs
-openx.net.hr
-hbopenbid.pubmatic.com
-ad.rtl.hr
-qpq.service
-s.qpq.service
-www.qpq.service.com
-adv.slobodnadalmacija.hr
-smartadserver.com
-csync.smartadserver.com
-csync-tmk.smartadserver.com
-sync.smartadserver.com
-ww2245.smartadserver.com
-www3.smartadserver.com
-search.spotxchange.com
-iab-imp-gateway.supersonicads.com
-init.supersonicads.com
-outcome-ssp.supersonicads.com	
-outcome-cdn.supersonicads.com
-pm-gateway.supersonicads.com
-supersonicads.com
-eph-adsjutarnji.cdn.sysbee.net
-trc.taboola.com
-15.taboola.com
-images.taboola.com
-assets.tapad.com
-pixel.tapad.com
-tapestry.tapad.com
-rpc-php.trafficfactory.biz
-publisher-event.unityads.unity3d.com
-auction.unityads.unity3d.com
+0.0.0.0 minero-proxy-01.now.sh
+0.0.0.0 minero-proxy-02.now.sh
+0.0.0.0 minero-proxy-03.now.sh
+0.0.0.0 minero.pw
+0.0.0.0 apx.moatads.com
+0.0.0.0 dbg52463.moatads.com
+0.0.0.0 js.moatads.com
+0.0.0.0 px.moatads.com
+0.0.0.0 s.moatads.com
+0.0.0.0 svastx.moatads.com
+0.0.0.0 vastx.moatads.com
+0.0.0.0 z.moatads.com
+0.0.0.0 ads.mopub.com
+0.0.0.0 admin.adserver.mopub.com
+0.0.0.0 admin.mpx.mopub.com
+0.0.0.0 adpreview.mopub.com
+0.0.0.0 adserver.mopub.com
+0.0.0.0 motionfree.pro
+0.0.0.0 hr3.motionfree.pro
+0.0.0.0 nativemedia.rs
+0.0.0.0 display.nativemedia.rs
+0.0.0.0 openx.net.hr
+0.0.0.0 hbopenbid.pubmatic.com
+0.0.0.0 ad.rtl.hr
+0.0.0.0 qpq.service
+0.0.0.0 s.qpq.service
+0.0.0.0 www.qpq.service.com
+0.0.0.0 adv.slobodnadalmacija.hr
+0.0.0.0 smartadserver.com
+0.0.0.0 csync.smartadserver.com
+0.0.0.0 csync-tmk.smartadserver.com
+0.0.0.0 sync.smartadserver.com
+0.0.0.0 ww2245.smartadserver.com
+0.0.0.0 www3.smartadserver.com
+0.0.0.0 search.spotxchange.com
+0.0.0.0 iab-imp-gateway.supersonicads.com
+0.0.0.0 init.supersonicads.com
+0.0.0.0 outcome-ssp.supersonicads.com	
+0.0.0.0 outcome-cdn.supersonicads.com
+0.0.0.0 pm-gateway.supersonicads.com
+0.0.0.0 supersonicads.com
+0.0.0.0 eph-adsjutarnji.cdn.sysbee.net
+0.0.0.0 trc.taboola.com
+0.0.0.0 15.taboola.com
+0.0.0.0 images.taboola.com
+0.0.0.0 assets.tapad.com
+0.0.0.0 pixel.tapad.com
+0.0.0.0 tapestry.tapad.com
+0.0.0.0 rpc-php.trafficfactory.biz
+0.0.0.0 publisher-event.unityads.unity3d.com
+0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 ss.userscontent.com
 0.0.0.0 ads.viralize.tv
 0.0.0.0 ads.yahoo.com
