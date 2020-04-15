@@ -2,42 +2,254 @@
 # Pi-Hole blacklist based on croatian web
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
-# Last update: 2020-02-09
+# Last update: 2020-04-14
 
-0.0.0.0 adclick.g.doubleclick.net
-0.0.0.0 adhr.hit.gemius.pl
-0.0.0.0 ads.yieldmo.com
-0.0.0.0 ads.dnevnik.hr
-0.0.0.0 adserver.iprom.net
-0.0.0.0 adservice.google.hr
-0.0.0.0 adskeeper.co.uk
-0.0.0.0 adv.slobodnadalmacija.hr
-0.0.0.0 analytics.carambo.la
-0.0.0.0 best2019-games-web1.com
-0.0.0.0 bottraffic4free.xyz
-0.0.0.0 cdn.connectad.io
-0.0.0.0 cdn.midas-network.com
+
+0.0.0.0 c.aaxads.com
+0.0.0.0 cdn.ad.plus
+0.0.0.0 wd.adcolony.com
+0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 a1.adform.net
+0.0.0.0 a2.adform.net
+0.0.0.0 adback.adform.net
+0.0.0.0 adx.adform.net
+0.0.0.0 adx2.adform.net
+0.0.0.0 adx3.adform.net
+0.0.0.0 c1.adform.net
 0.0.0.0 cm.adform.net
-0.0.0.0 cm.adskeeper.co.uk
-0.0.0.0 eph-adsjutarnji.cdn.sysbee.net
-0.0.0.0 gdehr.hit.gemius.pl
-0.0.0.0 get.s-onetag.com
-0.0.0.0 flirtssupport.com
-0.0.0.0 happyfeed.net
-0.0.0.0 hr.adocean.pl
-0.0.0.0 jsc.adskeeper.co.uk
-0.0.0.0 ladsblue.com
-0.0.0.0 logging.carambo.la
-0.0.0.0 media.carambo.la
-0.0.0.0 mediasource.online
-0.0.0.0 nbryb.com
-0.0.0.0 pixel.carambo.la
-0.0.0.0 profilespycheck.com
-0.0.0.0 relay-hr.ads.httpool.com
-0.0.0.0 route.carambo.la
-0.0.0.0 s-img.adskeeper.co.uk
-0.0.0.0 sigmatraffic.com
-0.0.0.0 xtr.carambo.la
-0.0.0.0 www.adskeeper.co.uk
-0.0.0.0 www.midas-network.com
-0.0.0.0 www3.smartadserver.com
+0.0.0.0 cm2.adform.net
+0.0.0.0 cm3.adform.net
+0.0.0.0 dmp.adform.net
+0.0.0.0 dmp-eu.adform.net
+0.0.0.0 hb.adx2.adform.net
+0.0.0.0 s1.adform.net
+0.0.0.0 s2.adform.net
+0.0.0.0 servr.adform.net
+0.0.0.0 server.adform.net
+0.0.0.0 track.adform.net
+0.0.0.0 g.adnxs.com
+0.0.0.0 gam.adnxs.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 m.adnxs.com
+0.0.0.0 mob.adnxs.com
+0.0.0.0 photobucket.adnxs.com
+0.0.0.0 secure.adnxs.com
+0.0.0.0 sharethrough.adnxs.com
+0.0.0.0 vcdn.adnxs.com
+0.0.0.0 www.adnxs.com
+0.0.0.0 ym.adnxs.com
+0.0.0.0 n.ads1-adnov.com
+0.0.0.0 st-n.ads1-adnow.com
+0.0.0.0 st-n.ads3-adnow.com
+0.0.0.0 cdn.adsync.tech
+0.0.0.0 match.adsrvr.org
+0.0.0.0 advicepl.adocean.pl
+0.0.0.0 afi.adocean.pl
+0.0.0.0 alt.adocean.pl
+0.0.0.0 gde.adocean.pl
+hr.adocean.pl
+hrgde.adocean.pl
+ringierro.adocean.pl
+ringierrs.adocean.pl
+rs.adocean.pl
+rsgde.adocean.pl
+si.adocean.pl
+adskeeper.co.uk
+cm.adskeeper.co.uk
+jsc.adskeeper.co.uk
+s-img.adskeeper.co.uk
+www.adskeeper.co.uk
+ads.adaptv.advertising.com
+c.amazon-adsystem.com
+arbz.info
+avocet.io
+ads.avocet.io
+api.avocet.io
+app.avocet.io
+cdn.avocet.io
+www.avocet.io
+www.api.avocet.io
+www.cdn.avocet.io
+ads.carambo.la
+logging.carambo.la
+media.carambo.la
+analytics.carambo.la
+pixel.carambo.la
+route.carambo.la
+xtr.carambo.la
+www.carambo.la
+as-sec.casalemedia.com
+ssum-sec.casalemedia.com
+crashlytics.com
+e.crashlytics.com
+e.crashlytics.net
+bidder.criteo.com
+cas.criteo.com
+dis.criteo.com
+dis.eu.criteo.com
+dis.sv.us.criteo.com
+dis.us.criteo.com
+ld2.criteo.com
+rtax.criteo.com
+sapatoru.widget.criteo.com
+sslwidget.criteo.com
+static.criteo.com
+widget.fr.eu.criteo.com
+www.criteo.com
+cdn.connectad.io
+i.connectad.io
+datamortii.life
+www.datamortii.life
+districtm.io
+dmx.districtm.io
+ads.dnevnik.hr
+domnovrek.com
+n.domnovrek.com
+st-n.domnovrek.com
+www.domnovrek.com
+dotmetrics.net
+script.dotmetrics.net
+test-script.dotmetrics.net
+ad.doubleclick.net
+ad.hr.doubleclick.net
+ad.rs.doubleclick.net
+ad.si.doubleclick.net
+adclick.g.doubleclick.net
+cm.g.doubleclick.net
+ff.doubleclick.net
+stats.g.doubleclick.net
+static.doubleclick.net
+static.g.doubleclick.net
+securepubads.g.doubleclick.net
+googleads.g.doubleclick.net
+exosrv.com
+ads.exosrv.com
+main.exosrv.com
+static.exosrv.com
+adhr.hit.gemius.pl
+gdehr.hit.gemius.pl
+hit.gemius.pl
+hr.hit.gemius.pl
+si.hit.gemius.pl
+adservice.google.com
+adservices.google.com
+pagead.l.google.com
+partnerad.l.google.com
+pagead-googlehosted.l.google.com
+adservice.google.hr
+www.googleadservices.com
+pagead2.googlesyndication.com
+health-line.me
+www.health-line.me
+*.health-line.me
+2hr-hearttoniic.health-line.me
+herbeauty.com
+ad.httpool.com
+aurelius.httpool.com
+relay-hr.ads.httpool.com
+relay-rs.ads.httpool.com
+trajan.httpool.com
+sdk.hr.amp.igexin.com
+adsec.iprom.net
+adserver.iprom.net
+central.iprom.net
+cdn.ad.server.iprom.net
+ipromsi.iprom.net
+krater.iprom.net
+tie.iprom.net
+jdrc.info
+www.jdrc.info
+jsecoin.com
+ads.kurir-info.rs
+linker.hr
+lofv.xyz
+uk.medreporters24.com
+mensdefence.info
+2hr.mensdefence.info
+mgid.com
+cm.mgid.com
+jsc.mgid.com
+www.mgid.com
+s-img.mgid.com
+www.midas-network.com
+cdn.midas-network.com
+minero-proxy-01.now.sh
+minero-proxy-02.now.sh
+minero-proxy-03.now.sh
+minero.pw
+apx.moatads.com
+dbg52463.moatads.com
+js.moatads.com
+px.moatads.com
+s.moatads.com
+svastx.moatads.com
+vastx.moatads.com
+z.moatads.com
+ads.mopub.com
+admin.adserver.mopub.com
+admin.mpx.mopub.com
+adpreview.mopub.com
+adserver.mopub.com
+motionfree.pro
+hr3.motionfree.pro
+nativemedia.rs
+display.nativemedia.rs
+openx.net.hr
+hbopenbid.pubmatic.com
+ad.rtl.hr
+qpq.service
+s.qpq.service
+www.qpq.service.com
+adv.slobodnadalmacija.hr
+smartadserver.com
+csync.smartadserver.com
+csync-tmk.smartadserver.com
+sync.smartadserver.com
+ww2245.smartadserver.com
+www3.smartadserver.com
+search.spotxchange.com
+iab-imp-gateway.supersonicads.com
+init.supersonicads.com
+outcome-ssp.supersonicads.com	
+outcome-cdn.supersonicads.com
+pm-gateway.supersonicads.com
+supersonicads.com
+eph-adsjutarnji.cdn.sysbee.net
+trc.taboola.com
+15.taboola.com
+images.taboola.com
+assets.tapad.com
+pixel.tapad.com
+tapestry.tapad.com
+rpc-php.trafficfactory.biz
+publisher-event.unityads.unity3d.com
+auction.unityads.unity3d.com
+ss.userscontent.com
+ads.viralize.tv
+ads.yahoo.com
+cdn-a.yieldlove.com
+ads.yieldmo.com
+gdpr.rw.yieldmo.com
+rw.yieldmo.com
+static.yieldmo.com
+w.yieldmo.com
+world.rw.yieldmo.com
+ads.youtube.com
+amateri.com
+www.amateri.com
+hr.amateri.com
+bongacams.com
+www.bongacams.com
+hr.bongacams.com
+desavanja.xyz
+fres-news.com
+www.fres-news.com
+0.fres-news.com
+1.fres-news.com
+minepi.com
+nbryb.com
+optnx.com
+m.optnx.com
+the31news.com
+www.the31news.com
+tyblk.info
