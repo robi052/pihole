@@ -98,59 +98,58 @@
 0.0.0.0 www.criteo.com
 0.0.0.0 cdn.connectad.io
 0.0.0.0 i.connectad.io
-datamortii.life
-www.datamortii.life
-districtm.io
-dmx.districtm.io
-ads.dnevnik.hr
-domnovrek.com
-n.domnovrek.com
-st-n.domnovrek.com
-www.domnovrek.com
-dotmetrics.net
-script.dotmetrics.net
-test-script.dotmetrics.net
-ad.doubleclick.net
-ad.hr.doubleclick.net
-ad.rs.doubleclick.net
-ad.si.doubleclick.net
-adclick.g.doubleclick.net
-cm.g.doubleclick.net
-ff.doubleclick.net
-stats.g.doubleclick.net
-static.doubleclick.net
-static.g.doubleclick.net
-securepubads.g.doubleclick.net
-googleads.g.doubleclick.net
-exosrv.com
-ads.exosrv.com
-main.exosrv.com
-static.exosrv.com
-adhr.hit.gemius.pl
-gdehr.hit.gemius.pl
-hit.gemius.pl
-hr.hit.gemius.pl
-si.hit.gemius.pl
-adservice.google.com
-adservices.google.com
-pagead.l.google.com
-partnerad.l.google.com
-pagead-googlehosted.l.google.com
-adservice.google.hr
-www.googleadservices.com
-pagead2.googlesyndication.com
-health-line.me
-www.health-line.me
-*.health-line.me
-2hr-hearttoniic.health-line.me
-herbeauty.com
-ad.httpool.com
-aurelius.httpool.com
-relay-hr.ads.httpool.com
-relay-rs.ads.httpool.com
-trajan.httpool.com
-sdk.hr.amp.igexin.com
-adsec.iprom.net
+0.0.0.0 datamortii.life
+0.0.0.0 www.datamortii.life
+0.0.0.0 districtm.io
+0.0.0.0 dmx.districtm.io
+0.0.0.0 ads.dnevnik.hr
+0.0.0.0 domnovrek.com
+0.0.0.0 n.domnovrek.com
+0.0.0.0 st-n.domnovrek.com
+0.0.0.0 www.domnovrek.com
+0.0.0.0 dotmetrics.net
+0.0.0.0 script.dotmetrics.net
+0.0.0.0 test-script.dotmetrics.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad.hr.doubleclick.net
+0.0.0.0 ad.rs.doubleclick.net
+0.0.0.0 ad.si.doubleclick.net
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 ff.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 static.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 exosrv.com
+0.0.0.0 ads.exosrv.com
+0.0.0.0 main.exosrv.com
+0.0.0.0 static.exosrv.com
+0.0.0.0 adhr.hit.gemius.pl
+0.0.0.0 gdehr.hit.gemius.pl
+0.0.0.0 hit.gemius.pl
+0.0.0.0 hr.hit.gemius.pl
+0.0.0.0 si.hit.gemius.pl
+0.0.0.0 adservice.google.com
+0.0.0.0 adservices.google.com
+0.0.0.0 pagead.l.google.com
+0.0.0.0 partnerad.l.google.com
+0.0.0.0 pagead-googlehosted.l.google.com
+0.0.0.0 adservice.google.hr
+0.0.0.0 www.googleadservices.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 health-line.me
+0.0.0.0 www.health-line.me
+0.0.0.0 2hr-hearttoniic.health-line.me
+0.0.0.0 herbeauty.com
+0.0.0.0 ad.httpool.com
+0.0.0.0 aurelius.httpool.com
+0.0.0.0 relay-hr.ads.httpool.com
+0.0.0.0 relay-rs.ads.httpool.com
+0.0.0.0 trajan.httpool.com
+0.0.0.0 sdk.hr.amp.igexin.com
+0.0.0.0 adsec.iprom.net
 adserver.iprom.net
 central.iprom.net
 cdn.ad.server.iprom.net
@@ -224,32 +223,32 @@ tapestry.tapad.com
 rpc-php.trafficfactory.biz
 publisher-event.unityads.unity3d.com
 auction.unityads.unity3d.com
-ss.userscontent.com
-ads.viralize.tv
-ads.yahoo.com
-cdn-a.yieldlove.com
-ads.yieldmo.com
-gdpr.rw.yieldmo.com
-rw.yieldmo.com
-static.yieldmo.com
-w.yieldmo.com
-world.rw.yieldmo.com
-ads.youtube.com
-amateri.com
-www.amateri.com
-hr.amateri.com
-bongacams.com
-www.bongacams.com
-hr.bongacams.com
-desavanja.xyz
-fres-news.com
-www.fres-news.com
-0.fres-news.com
-1.fres-news.com
-minepi.com
-nbryb.com
-optnx.com
-m.optnx.com
-the31news.com
-www.the31news.com
-tyblk.info
+0.0.0.0 ss.userscontent.com
+0.0.0.0 ads.viralize.tv
+0.0.0.0 ads.yahoo.com
+0.0.0.0 cdn-a.yieldlove.com
+0.0.0.0 ads.yieldmo.com
+0.0.0.0 gdpr.rw.yieldmo.com
+0.0.0.0 rw.yieldmo.com
+0.0.0.0 static.yieldmo.com
+0.0.0.0 w.yieldmo.com
+0.0.0.0 world.rw.yieldmo.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 amateri.com
+0.0.0.0 www.amateri.com
+0.0.0.0 hr.amateri.com
+0.0.0.0 bongacams.com
+0.0.0.0 www.bongacams.com
+0.0.0.0 hr.bongacams.com
+0.0.0.0 desavanja.xyz
+0.0.0.0 fres-news.com
+0.0.0.0 www.fres-news.com
+0.0.0.0 0.fres-news.com
+0.0.0.0 1.fres-news.com
+0.0.0.0 minepi.com
+0.0.0.0 nbryb.com
+0.0.0.0 optnx.com
+0.0.0.0 m.optnx.com
+0.0.0.0 the31news.com
+0.0.0.0 www.the31news.com
+0.0.0.0 tyblk.info
