@@ -2,7 +2,7 @@
 # Pi-Hole blacklist based on croatian web and other
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
-# Last update: 2020-04-14
+# Last update: 2020-04-15
 
 
 0.0.0.0 c.aaxads.com
@@ -150,28 +150,28 @@
 0.0.0.0 trajan.httpool.com
 0.0.0.0 sdk.hr.amp.igexin.com
 0.0.0.0 adsec.iprom.net
-adserver.iprom.net
-central.iprom.net
-cdn.ad.server.iprom.net
-ipromsi.iprom.net
-krater.iprom.net
-tie.iprom.net
-jdrc.info
-www.jdrc.info
-jsecoin.com
-ads.kurir-info.rs
-linker.hr
-lofv.xyz
-uk.medreporters24.com
-mensdefence.info
-2hr.mensdefence.info
-mgid.com
-cm.mgid.com
-jsc.mgid.com
-www.mgid.com
-s-img.mgid.com
-www.midas-network.com
-cdn.midas-network.com
+0.0.0.0 adserver.iprom.net
+0.0.0.0 central.iprom.net
+0.0.0.0 cdn.ad.server.iprom.net
+0.0.0.0 ipromsi.iprom.net
+0.0.0.0 krater.iprom.net
+0.0.0.0 tie.iprom.net
+0.0.0.0 jdrc.info
+0.0.0.0 www.jdrc.info
+0.0.0.0 jsecoin.com
+0.0.0.0 ads.kurir-info.rs
+0.0.0.0 linker.hr
+0.0.0.0 lofv.xyz
+0.0.0.0 uk.medreporters24.com
+0.0.0.0 mensdefence.info
+0.0.0.0 2hr.mensdefence.info
+0.0.0.0 mgid.com
+0.0.0.0 cm.mgid.com
+0.0.0.0 jsc.mgid.com
+0.0.0.0 www.mgid.com
+0.0.0.0 s-img.mgid.com
+0.0.0.0 www.midas-network.com
+0.0.0.0 cdn.midas-network.com
 0.0.0.0 minero-proxy-01.now.sh
 0.0.0.0 minero-proxy-02.now.sh
 0.0.0.0 minero-proxy-03.now.sh
