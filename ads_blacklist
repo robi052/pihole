@@ -2,7 +2,7 @@
 # Pi-Hole blacklist based on croatian web and other
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
-# Last update: 2020-04-15
+# Last update: 2020-05-15
 
 
 0.0.0.0 c.aaxads.com
@@ -252,3 +252,8 @@
 0.0.0.0 the31news.com
 0.0.0.0 www.the31news.com
 0.0.0.0 tyblk.info
+0.0.0.0 pretraga.info
+0.0.0.0 dz24.me
+0.0.0.0 www.dz24.me
+0.0.0.0 izona24.com
+0.0.0.0 www.izona24.com
