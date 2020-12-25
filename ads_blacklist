@@ -2,13 +2,14 @@
 # Pi-Hole blacklist based on croatian web and other
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
-# Last update: 2020-05-15
+# Last update: 2020-12-25
 
 
 0.0.0.0 c.aaxads.com
 0.0.0.0 cdn.ad.plus
 0.0.0.0 wd.adcolony.com
 0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 adform.net
 0.0.0.0 a1.adform.net
 0.0.0.0 a2.adform.net
 0.0.0.0 adback.adform.net
