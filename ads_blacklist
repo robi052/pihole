@@ -214,7 +214,11 @@
 0.0.0.0 outcome-cdn.supersonicads.com
 0.0.0.0 pm-gateway.supersonicads.com
 0.0.0.0 monadplug.com
+0.0.0.0 cdn.monadplug.com
+0.0.0.0 intext-1.monadplug.com
+0.0.0.0 native-3.monadplug.com
 0.0.0.0 publisher.monadplug.com
+0.0.0.0 monadbackend.online
 0.0.0.0 supersonicads.com
 0.0.0.0 eph-adsjutarnji.cdn.sysbee.net
 0.0.0.0 trc.taboola.com
