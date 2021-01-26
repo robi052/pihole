@@ -13,5 +13,4 @@ Included:
 Excluded:
 - Google analytics
 
-INSTALL: 
-Add this url to Pihole Settings => Adlist https://raw.githubusercontent.com/robi052/pihole-blacklist/master/ads_blacklist
+For using this list just Add this url https://raw.githubusercontent.com/robi052/pihole-blacklist/master/ads_blacklist
