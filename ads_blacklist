@@ -268,5 +268,3 @@
 0.0.0.0 analytics.styria.hr
 0.0.0.0 banner.mob.hr
 
-# Regex
-^(adserver\.)
