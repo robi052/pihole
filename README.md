@@ -5,7 +5,7 @@ Pi-Hole URL: https://pi-hole.net/
 
 Pi-hole blacklist ads based on [bind9 rpz](https://github.com/robi052/bind9-rpz).
 
-Last update: 31-January-2021 @ 16:55
+Last update: 03/02/2021 @ 03:15
 
 Major changes @ 31.01.2021.
 Changed repo and file name. Delete old list from your pi-hole list and add new.
