@@ -8,7 +8,7 @@ Pi-hole blacklist ads based on [bind9 rpz](https://github.com/robi052/bind9-rpz)
 Last update: 03/02/2021 @ 03:15
 
 Major changes @ 31.01.2021.
-Changed repo and file name. Delete old list from your pi-hole list and add new.
+- Changed repo and file name. Delete old list from your pi-hole list and add new.
 
 Included:
 - Fake news portals
