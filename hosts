@@ -4,6 +4,9 @@
 # Tags: ads, advertise
 # Last update: 2021-02-03
 
+127.0.0.1 www.test.hr
+127.0.0.1 test.hr
+
 # [aaxads.com]
 0.0.0.0 c.aaxads.com
 
