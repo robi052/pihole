@@ -64,8 +64,11 @@
 0.0.0.0 n.ads3-adnow.com
 0.0.0.0 st-n.ads3-adnow.com
 
+# [adsync.tech]
 0.0.0.0 cdn.adsync.tech
 0.0.0.0 match.adsrvr.org
+
+# [adocean.pl]
 0.0.0.0 advicepl.adocean.pl
 0.0.0.0 afi.adocean.pl
 0.0.0.0 alt.adocean.pl
@@ -77,14 +80,26 @@
 0.0.0.0 rs.adocean.pl
 0.0.0.0 rsgde.adocean.pl
 0.0.0.0 si.adocean.pl
+
+# [adskeeper.co.uk]
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 cm.adskeeper.co.uk
 0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 s-img.adskeeper.co.uk
 0.0.0.0 www.adskeeper.co.uk
+
+# [advertising.com]
 0.0.0.0 ads.adaptv.advertising.com
+
+# [amazon-adsystem.com]
 0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 z-eu.amazon-adsystem.com
+
+# [arbz.info]
 0.0.0.0 arbz.info
+
+# [avocet.io]
 0.0.0.0 avocet.io
 0.0.0.0 ads.avocet.io
 0.0.0.0 api.avocet.io
@@ -93,6 +108,8 @@
 0.0.0.0 www.avocet.io
 0.0.0.0 www.api.avocet.io
 0.0.0.0 www.cdn.avocet.io
+
+# [carambo.la]
 0.0.0.0 ads.carambo.la
 0.0.0.0 logging.carambo.la
 0.0.0.0 media.carambo.la
@@ -101,11 +118,20 @@
 0.0.0.0 route.carambo.la
 0.0.0.0 xtr.carambo.la
 0.0.0.0 www.carambo.la
+
+# [casalemedia.com]
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 ssum-sec.casalemedia.com
+
+# [crashlytics.com]
 0.0.0.0 crashlytics.com
 0.0.0.0 e.crashlytics.com
+
+# [crashlytics.net]
 0.0.0.0 e.crashlytics.net
+
+# [criteo.com]
+0.0.0.0 criteo.com
 0.0.0.0 bidder.criteo.com
 0.0.0.0 cas.criteo.com
 0.0.0.0 dis.criteo.com
@@ -119,20 +145,28 @@
 0.0.0.0 static.criteo.com
 0.0.0.0 widget.fr.eu.criteo.com
 0.0.0.0 www.criteo.com
+
 0.0.0.0 cdn.connectad.io
 0.0.0.0 i.connectad.io
+
 0.0.0.0 datamortii.life
+
 0.0.0.0 www.datamortii.life
+
 0.0.0.0 districtm.io
 0.0.0.0 dmx.districtm.io
+
 0.0.0.0 ads.dnevnik.hr
+
 0.0.0.0 domnovrek.com
 0.0.0.0 n.domnovrek.com
 0.0.0.0 st-n.domnovrek.com
 0.0.0.0 www.domnovrek.com
+
 0.0.0.0 dotmetrics.net
 0.0.0.0 script.dotmetrics.net
 0.0.0.0 test-script.dotmetrics.net
+
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.hr.doubleclick.net
 0.0.0.0 ad.rs.doubleclick.net
@@ -145,33 +179,44 @@
 0.0.0.0 static.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
+
 0.0.0.0 exosrv.com
 0.0.0.0 ads.exosrv.com
 0.0.0.0 main.exosrv.com
 0.0.0.0 static.exosrv.com
+
 0.0.0.0 adhr.hit.gemius.pl
 0.0.0.0 gdehr.hit.gemius.pl
 0.0.0.0 hit.gemius.pl
 0.0.0.0 hr.hit.gemius.pl
 0.0.0.0 si.hit.gemius.pl
+
 0.0.0.0 adservice.google.com
 0.0.0.0 adservices.google.com
 0.0.0.0 pagead.l.google.com
 0.0.0.0 partnerad.l.google.com
 0.0.0.0 pagead-googlehosted.l.google.com
+
 0.0.0.0 adservice.google.hr
+
 0.0.0.0 www.googleadservices.com
+
 0.0.0.0 pagead2.googlesyndication.com
+
 0.0.0.0 health-line.me
 0.0.0.0 www.health-line.me
 0.0.0.0 2hr-hearttoniic.health-line.me
+
 0.0.0.0 herbeauty.com
+
 0.0.0.0 ad.httpool.com
 0.0.0.0 aurelius.httpool.com
 0.0.0.0 relay-hr.ads.httpool.com
 0.0.0.0 relay-rs.ads.httpool.com
 0.0.0.0 trajan.httpool.com
+
 0.0.0.0 sdk.hr.amp.igexin.com
+
 0.0.0.0 adsec.iprom.net
 0.0.0.0 adserver.iprom.net
 0.0.0.0 central.iprom.net
@@ -179,27 +224,40 @@
 0.0.0.0 ipromsi.iprom.net
 0.0.0.0 krater.iprom.net
 0.0.0.0 tie.iprom.net
+
 0.0.0.0 jav.guru
+
 0.0.0.0 jdrc.info
 0.0.0.0 www.jdrc.info
+
 0.0.0.0 jsecoin.com
+
 0.0.0.0 ads.kurir-info.rs
+
 0.0.0.0 linker.hr
+
 0.0.0.0 lofv.xyz
+
 0.0.0.0 uk.medreporters24.com
+
 0.0.0.0 mensdefence.info
 0.0.0.0 2hr.mensdefence.info
+
 0.0.0.0 mgid.com
 0.0.0.0 cm.mgid.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 www.mgid.com
 0.0.0.0 s-img.mgid.com
+
 0.0.0.0 www.midas-network.com
 0.0.0.0 cdn.midas-network.com
+
 0.0.0.0 minero-proxy-01.now.sh
 0.0.0.0 minero-proxy-02.now.sh
 0.0.0.0 minero-proxy-03.now.sh
+
 0.0.0.0 minero.pw
+
 0.0.0.0 apx.moatads.com
 0.0.0.0 dbg52463.moatads.com
 0.0.0.0 js.moatads.com
@@ -208,55 +266,79 @@
 0.0.0.0 svastx.moatads.com
 0.0.0.0 vastx.moatads.com
 0.0.0.0 z.moatads.com
+
 0.0.0.0 ads.mopub.com
 0.0.0.0 admin.adserver.mopub.com
 0.0.0.0 admin.mpx.mopub.com
 0.0.0.0 adpreview.mopub.com
 0.0.0.0 adserver.mopub.com
+
 0.0.0.0 motionfree.pro
 0.0.0.0 hr3.motionfree.pro
+
 0.0.0.0 nativemedia.rs
 0.0.0.0 display.nativemedia.rs
+
 0.0.0.0 openx.net.hr
+
 0.0.0.0 hbopenbid.pubmatic.com
+
 0.0.0.0 syndication.realsrv.com
+
 0.0.0.0 ad.rtl.hr
+
 0.0.0.0 qpq.service
 0.0.0.0 s.qpq.service
 0.0.0.0 www.qpq.service.com
+
 0.0.0.0 adv.slobodnadalmacija.hr
+
 0.0.0.0 smartadserver.com
 0.0.0.0 csync.smartadserver.com
 0.0.0.0 csync-tmk.smartadserver.com
 0.0.0.0 sync.smartadserver.com
 0.0.0.0 ww2245.smartadserver.com
 0.0.0.0 www3.smartadserver.com
+
 0.0.0.0 search.spotxchange.com
+
 0.0.0.0 iab-imp-gateway.supersonicads.com
 0.0.0.0 init.supersonicads.com
 0.0.0.0 outcome-ssp.supersonicads.com	
 0.0.0.0 outcome-cdn.supersonicads.com
 0.0.0.0 pm-gateway.supersonicads.com
+
 0.0.0.0 monadplug.com
 0.0.0.0 cdn.monadplug.com
 0.0.0.0 intext-1.monadplug.com
 0.0.0.0 native-3.monadplug.com
 0.0.0.0 publisher.monadplug.com
+
 0.0.0.0 monadbackend.online
+
 0.0.0.0 supersonicads.com
+
 0.0.0.0 eph-adsjutarnji.cdn.sysbee.net
+
 0.0.0.0 trc.taboola.com
 0.0.0.0 15.taboola.com
 0.0.0.0 images.taboola.com
+
 0.0.0.0 assets.tapad.com
 0.0.0.0 pixel.tapad.com
 0.0.0.0 tapestry.tapad.com
+
 0.0.0.0 rpc-php.trafficfactory.biz
+
 0.0.0.0 publisher-event.unityads.unity3d.com
 0.0.0.0 auction.unityads.unity3d.com
+
 0.0.0.0 ss.userscontent.com
+
 0.0.0.0 ads.viralize.tv
+
 0.0.0.0 ads.yahoo.com
+
 0.0.0.0 cdn-a.yieldlove.com
 0.0.0.0 ads.yieldmo.com
 0.0.0.0 gdpr.rw.yieldmo.com
@@ -264,31 +346,46 @@
 0.0.0.0 static.yieldmo.com
 0.0.0.0 w.yieldmo.com
 0.0.0.0 world.rw.yieldmo.com
+
 0.0.0.0 ads.youtube.com
+
 0.0.0.0 amateri.com
 0.0.0.0 www.amateri.com
 0.0.0.0 hr.amateri.com
+
 0.0.0.0 bongacams.com
 0.0.0.0 www.bongacams.com
 0.0.0.0 hr.bongacams.com
+
 0.0.0.0 desavanja.xyz
+
 0.0.0.0 fres-news.com
 0.0.0.0 www.fres-news.com
 0.0.0.0 0.fres-news.com
 0.0.0.0 1.fres-news.com
+
 0.0.0.0 minepi.com
+
 0.0.0.0 nbryb.com
+
 0.0.0.0 optnx.com
 0.0.0.0 m.optnx.com
+
 0.0.0.0 the31news.com
 0.0.0.0 www.the31news.com
+
 0.0.0.0 tyblk.info
+
 0.0.0.0 pretraga.info
+
 0.0.0.0 dz24.me
 0.0.0.0 www.dz24.me
+
 0.0.0.0 izona24.com
 0.0.0.0 www.izona24.com
-0.0.0.0 watch-video.net
-0.0.0.0 analytics.styria.hr
-0.0.0.0 banner.mob.hr
 
+0.0.0.0 watch-video.net
+
+0.0.0.0 analytics.styria.hr
+
+0.0.0.0 banner.mob.hr
