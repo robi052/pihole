@@ -9,6 +9,8 @@
 
 # [ad.plus]
 0.0.0.0 cdn.ad.plus
+
+# [adcolony.com]
 0.0.0.0 wd.adcolony.com
 0.0.0.0 adc3-launch.adcolony.com
 
@@ -45,9 +47,23 @@
 0.0.0.0 vcdn.adnxs.com
 0.0.0.0 www.adnxs.com
 0.0.0.0 ym.adnxs.com
+
+# [ads1-adnow.com]
+0.0.0.0 ads1-adnov.com
 0.0.0.0 n.ads1-adnov.com
 0.0.0.0 st-n.ads1-adnow.com
+
+# [ads2-adnow.com]
+0.0.0.0 ads2-adnow.com
+0.0.0.0 n.ads2-adnow.com
+0.0.0.0 st.n.ads2-adnow.com
+0.0.0.0 st-n.ads2-adnow.com
+
+# [ads3-adnow.com]
+0.0.0.0 ads3-adnow.com
+0.0.0.0 n.ads3-adnow.com
 0.0.0.0 st-n.ads3-adnow.com
+
 0.0.0.0 cdn.adsync.tech
 0.0.0.0 match.adsrvr.org
 0.0.0.0 advicepl.adocean.pl
