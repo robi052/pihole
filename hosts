@@ -4,11 +4,15 @@
 # Tags: ads, advertise
 # Last update: 2021-02-03
 
-
+# [aaxads.com]
 0.0.0.0 c.aaxads.com
+
+# [ad.plus]
 0.0.0.0 cdn.ad.plus
 0.0.0.0 wd.adcolony.com
 0.0.0.0 adc3-launch.adcolony.com
+
+# [adform.net]
 0.0.0.0 adform.net
 0.0.0.0 a1.adform.net
 0.0.0.0 a2.adform.net
@@ -28,6 +32,8 @@
 0.0.0.0 servr.adform.net
 0.0.0.0 server.adform.net
 0.0.0.0 track.adform.net
+
+# [adnxs.com]
 0.0.0.0 g.adnxs.com
 0.0.0.0 gam.adnxs.com
 0.0.0.0 ib.adnxs.com
