@@ -2,7 +2,7 @@
 # Pi-Hole blacklist based on croatian web and other
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
-# Last update: 03. February 2021.
+# Last update: 08. February 2021.
 
 # Custom LAN setup
 127.0.0.1 localhost
@@ -266,6 +266,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.mgid.com
 0.0.0.0 s-img.mgid.com
 
+# [midas-network.com]
+0.0.0.0 midas-network.com
+0.0.0.0 api.midas-network.com
 0.0.0.0 www.midas-network.com
 0.0.0.0 cdn.midas-network.com
 
