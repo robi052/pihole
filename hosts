@@ -2,7 +2,11 @@
 # Pi-Hole blacklist based on croatian web and other
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
+<<<<<<< HEAD
 # Last update: 19. February 2021.
+=======
+# Last update: 15. February 2021.
+>>>>>>> 063744a4945360dc444d9ccb9e101cc4cbe16824
 
 # Custom LAN setup
 127.0.0.1 localhost
@@ -126,6 +130,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.api.avocet.io
 0.0.0.0 www.cdn.avocet.io
 
+# [blacksar.date]
+0.0.0.0 blacksar.date
+
 # [carambo.la]
 0.0.0.0 ads.carambo.la
 0.0.0.0 logging.carambo.la
@@ -163,27 +170,33 @@ ff02::3 ip6-allhosts
 0.0.0.0 widget.fr.eu.criteo.com
 0.0.0.0 www.criteo.com
 
+# [connectad.io]
 0.0.0.0 cdn.connectad.io
 0.0.0.0 i.connectad.io
 
+# [datamortii.life]
 0.0.0.0 datamortii.life
-
 0.0.0.0 www.datamortii.life
 
+# [districtm.io]
 0.0.0.0 districtm.io
 0.0.0.0 dmx.districtm.io
 
+# [dnevnik.hr]
 0.0.0.0 ads.dnevnik.hr
 
+# [domnovrek.com]
 0.0.0.0 domnovrek.com
 0.0.0.0 n.domnovrek.com
 0.0.0.0 st-n.domnovrek.com
 0.0.0.0 www.domnovrek.com
 
+# [dotmetrics-net]
 0.0.0.0 dotmetrics.net
 0.0.0.0 script.dotmetrics.net
 0.0.0.0 test-script.dotmetrics.net
 
+# [doubleclick.net]
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.hr.doubleclick.net
 0.0.0.0 ad.rs.doubleclick.net
