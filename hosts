@@ -211,7 +211,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 main.exosrv.com
 0.0.0.0 static.exosrv.com
 
+# [Gemius.pl]
 0.0.0.0 adhr.hit.gemius.pl
+0.0.0.0 gahr.hit.gemius.pl
 0.0.0.0 gdehr.hit.gemius.pl
 0.0.0.0 hit.gemius.pl
 0.0.0.0 hr.hit.gemius.pl
