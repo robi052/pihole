@@ -2,7 +2,7 @@
 # Pi-Hole blacklist based on croatian web and other
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
-# Last update: 19. February 2021.
+# Last update: 18. May 2021.
 
 # Custom LAN setup
 127.0.0.1 localhost
@@ -212,6 +212,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
 
+# [exosrv.com]
 0.0.0.0 exosrv.com
 0.0.0.0 ads.exosrv.com
 0.0.0.0 main.exosrv.com
@@ -225,13 +226,18 @@ ff02::3 ip6-allhosts
 0.0.0.0 hr.hit.gemius.pl
 0.0.0.0 si.hit.gemius.pl
 
+<<<<<<< HEAD
 # [Google.com]
+=======
+# [google.com]
+>>>>>>> 8c7c89026bde90cac206430df0a586a1920809c8
 0.0.0.0 adservice.google.com
 0.0.0.0 adservices.google.com
 0.0.0.0 pagead.l.google.com
 0.0.0.0 partnerad.l.google.com
 0.0.0.0 pagead-googlehosted.l.google.com
 
+<<<<<<< HEAD
 # [Google.hr]
 0.0.0.0 adservice.google.hr
 
@@ -242,6 +248,18 @@ ff02::3 ip6-allhosts
 0.0.0.0 pagead2.googlesyndication.com
 
 # [Health-line]
+=======
+# [google.hr]
+0.0.0.0 adservice.google.hr
+
+# [googleadservices.com]
+0.0.0.0 www.googleadservices.com
+
+# [googlesymdication.com]
+0.0.0.0 pagead2.googlesyndication.com
+
+# [health-line.me]
+>>>>>>> 8c7c89026bde90cac206430df0a586a1920809c8
 0.0.0.0 health-line.me
 0.0.0.0 www.health-line.me
 0.0.0.0 2hr-hearttoniic.health-line.me
