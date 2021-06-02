@@ -105,8 +105,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 s-img.adskeeper.co.uk
 0.0.0.0 www.adskeeper.co.uk
 
+# [adskeeper.com]
+0.0.0.0 adskeeper.com
+
 # [advertising.com]
 0.0.0.0 ads.adaptv.advertising.com
+
+# [adxbid.info]
+0.0.0.0 adxbid.info
 
 # [amazon-adsystem.com]
 0.0.0.0 c.amazon-adsystem.com
@@ -219,32 +225,41 @@ ff02::3 ip6-allhosts
 0.0.0.0 hr.hit.gemius.pl
 0.0.0.0 si.hit.gemius.pl
 
+# [Google.com]
 0.0.0.0 adservice.google.com
 0.0.0.0 adservices.google.com
 0.0.0.0 pagead.l.google.com
 0.0.0.0 partnerad.l.google.com
 0.0.0.0 pagead-googlehosted.l.google.com
 
+# [Google.hr]
 0.0.0.0 adservice.google.hr
 
+# [Googleservices.com]
 0.0.0.0 www.googleadservices.com
 
+# [Googlesyndication.com]
 0.0.0.0 pagead2.googlesyndication.com
 
+# [Health-line]
 0.0.0.0 health-line.me
 0.0.0.0 www.health-line.me
 0.0.0.0 2hr-hearttoniic.health-line.me
 
+# [herbeauty.com]
 0.0.0.0 herbeauty.com
 
+# [httpool.com]
 0.0.0.0 ad.httpool.com
 0.0.0.0 aurelius.httpool.com
 0.0.0.0 relay-hr.ads.httpool.com
 0.0.0.0 relay-rs.ads.httpool.com
 0.0.0.0 trajan.httpool.com
 
+# [igexin.com]
 0.0.0.0 sdk.hr.amp.igexin.com
 
+# [iprom.net]
 0.0.0.0 adsec.iprom.net
 0.0.0.0 adserver.iprom.net
 0.0.0.0 central.iprom.net
@@ -290,6 +305,7 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 minero.pw
 
+# [Moatads.com]
 0.0.0.0 apx.moatads.com
 0.0.0.0 dbg52463.moatads.com
 0.0.0.0 js.moatads.com
@@ -299,6 +315,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vastx.moatads.com
 0.0.0.0 z.moatads.com
 
+# [Mopub.com]
 0.0.0.0 ads.mopub.com
 0.0.0.0 admin.adserver.mopub.com
 0.0.0.0 admin.mpx.mopub.com
@@ -325,6 +342,7 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 adv.slobodnadalmacija.hr
 
+# [Smartadserver.com]
 0.0.0.0 smartadserver.com
 0.0.0.0 csync.smartadserver.com
 0.0.0.0 csync-tmk.smartadserver.com
@@ -340,6 +358,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 outcome-cdn.supersonicads.com
 0.0.0.0 pm-gateway.supersonicads.com
 
+# [Monadplug.com]
 0.0.0.0 monadplug.com
 0.0.0.0 cdn.monadplug.com
 0.0.0.0 intext-1.monadplug.com
