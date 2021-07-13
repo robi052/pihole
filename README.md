@@ -5,9 +5,14 @@ Pi-Hole URL: https://pi-hole.net/
 
 Pi-hole blacklist ads based on [bind9 rpz](https://github.com/robi052/bind9-rpz).
 
-Last update: 18/05/2021 @ 0:10
+Last update: 13/07/2021 @ 15:20
 
-Major changes @ 31.01.2021.
+Changelog
+
+13. 07. 2021.
+- Added Huawei 50union.com domains to list
+
+31.01.2021.
 - Changed repo and file name. Delete old list from your pi-hole list and add new.
 
 Included:
