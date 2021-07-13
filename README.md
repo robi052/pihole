@@ -9,7 +9,7 @@ Last update: 13/07/2021 @ 15:20
 
 Changelog
 
-13. 07. 2021.
+13.07.2021.
 - Added Huawei 50union.com domains to list
 
 31.01.2021.
