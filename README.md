@@ -10,7 +10,7 @@ Last update: 13/07/2021 @ 15:20
 Changelog
 
 06.10.2021.
-New blacklisted domain
+- New blacklisted domain
 
 13.07.2021.
 - Added Huawei 50union.com domains to list
