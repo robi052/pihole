@@ -85,6 +85,9 @@ eu.mvconf.50union.com
 0.0.0.0 n.ads3-adnow.com
 0.0.0.0 st-n.ads3-adnow.com
 
+# [adskeeper.com]
+0.0.0.0 adskeeper.com
+
 # [adsync.tech]
 0.0.0.0 cdn.adsync.tech
 0.0.0.0 match.adsrvr.org
