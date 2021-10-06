@@ -113,8 +113,10 @@ eu.mvconf.50union.com
 0.0.0.0 adskeeper.com
 0.0.0.0 c.adskeeper.com
 0.0.0.0 cm.adskeeper.com
+0.0.0.0 jsc.adsleeper.com
 0.0.0.0 s-img.adskeeper.com
 0.0.0.0 servicer.adskeeper.com
+0.0.0.0 www.adskeeper.com
 
 # [advertising.com]
 0.0.0.0 ads.adaptv.advertising.com
