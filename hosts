@@ -2,7 +2,7 @@
 # Pi-Hole blacklist based on croatian web and other
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
-# Last update: 06. October 2021.
+# Last update: 25. November 2021.
 
 # Custom LAN setup
 127.0.0.1 localhost

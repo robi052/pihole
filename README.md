@@ -5,9 +5,12 @@ Pi-Hole URL: https://pi-hole.net/
 
 Pi-hole blacklist ads based on [bind9 rpz](https://github.com/robi052/bind9-rpz).
 
-Last update: 13/07/2021 @ 15:20
+Last update: 25/11/2021 @ 00:30
 
 Changelog
+
+25.11.2021.
+- Added adsco.re to blacklist
 
 06.10.2021.
 - New blacklisted domain
