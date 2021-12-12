@@ -2,7 +2,7 @@
 # Pi-Hole blacklist based on croatian web and other
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
-# Last update: 27. November 2021.
+# Last update: 12. December 2021.
 
 # Custom LAN setup
 127.0.0.1 localhost
@@ -396,19 +396,35 @@ eu.mvconf.50union.com
 0.0.0.0 native-3.monadplug.com
 0.0.0.0 publisher.monadplug.com
 
+# [ratahor.com]
+0.0.0.0 ratahor.com
+
+# [taboola.com]
+0.0.0.0 trc.taboola.com
+0.0.0.0 15.taboola.com
+0.0.0.0 images.taboola.com
+
+# [tapad.com]
+0.0.0.0 tapad.com
+0.0.0.0 assets.tapad.com
+0.0.0.0 pixel.tapad.com
+0.0.0.0 tapestry.tapad.com
+
+# [yieldmo.com]
+0.0.0.0 cdn-a.yieldlove.com
+0.0.0.0 ads.yieldmo.com
+0.0.0.0 gdpr.rw.yieldmo.com
+0.0.0.0 rw.yieldmo.com
+0.0.0.0 static.yieldmo.com
+0.0.0.0 w.yieldmo.com
+0.0.0.0 world.rw.yieldmo.com
+
+# NERAZVRSTANO
 0.0.0.0 monadbackend.online
 
 0.0.0.0 supersonicads.com
 
 0.0.0.0 eph-adsjutarnji.cdn.sysbee.net
-
-0.0.0.0 trc.taboola.com
-0.0.0.0 15.taboola.com
-0.0.0.0 images.taboola.com
-
-0.0.0.0 assets.tapad.com
-0.0.0.0 pixel.tapad.com
-0.0.0.0 tapestry.tapad.com
 
 0.0.0.0 rpc-php.trafficfactory.biz
 
@@ -420,14 +436,6 @@ eu.mvconf.50union.com
 0.0.0.0 ads.viralize.tv
 
 0.0.0.0 ads.yahoo.com
-
-0.0.0.0 cdn-a.yieldlove.com
-0.0.0.0 ads.yieldmo.com
-0.0.0.0 gdpr.rw.yieldmo.com
-0.0.0.0 rw.yieldmo.com
-0.0.0.0 static.yieldmo.com
-0.0.0.0 w.yieldmo.com
-0.0.0.0 world.rw.yieldmo.com
 
 0.0.0.0 ads.youtube.com
 
