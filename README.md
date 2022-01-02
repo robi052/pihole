@@ -8,7 +8,7 @@ Pi-hole blacklist ads based on [bind9 rpz](https://github.com/robi052/bind9-rpz)
 Last update: 02/01/2022 @ 12:45
 
 Changelog
-01.01.2021.
+02.01.2021.
 - Debug
 - Test new format 
 - Added avantza.biz and other domains to blacklist

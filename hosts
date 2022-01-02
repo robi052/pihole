@@ -138,7 +138,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z-eu.amazon-adsystem.com
 
 # [animaltrianglecenter.top]
-127.0.0.1 animaltrianglecenter.top
+0.0.0.0 animaltrianglecenter.top
 
 # [arbz.info]
 0.0.0.0 arbz.info
