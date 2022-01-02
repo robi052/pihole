@@ -22,8 +22,8 @@ ff02::3 ip6-allhosts
 # END LAN setup
 
 # 50union.com (Huawei)
-eu.mclean.50union.com
-eu.mvconf.50union.com
+0.0.0.0 eu.mclean.50union.com
+0.0.0.0 eu.mvconf.50union.com
 
 # [aaxads.com]
 0.0.0.0 c.aaxads.com
@@ -144,7 +144,7 @@ eu.mvconf.50union.com
 0.0.0.0 arbz.info
 
 # [avantza.biz]
-avantza.biz
+0.0.0.0 avantza.biz
 
 # [avocet.io]
 0.0.0.0 avocet.io
@@ -157,7 +157,7 @@ avantza.biz
 0.0.0.0 www.cdn.avocet.io
 
 # [bbrstore.ru]
-bbrstore.ru
+0.0.0.0 bbrstore.ru
 
 # [blacksar.date]
 0.0.0.0 blacksar.date
