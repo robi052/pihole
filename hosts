@@ -2,7 +2,7 @@
 # Pi-Hole blacklist based on croatian web and other
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
-# Last update: 12. December 2021.
+# Last update: 02. January 2021.
 
 # Custom LAN setup
 127.0.0.1 localhost
@@ -142,6 +142,9 @@ eu.mvconf.50union.com
 
 # [arbz.info]
 0.0.0.0 arbz.info
+
+# [avantza.biz]
+avantza.biz
 
 # [avocet.io]
 0.0.0.0 avocet.io
