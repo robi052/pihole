@@ -138,8 +138,8 @@ eu.mvconf.50union.com
 0.0.0.0 z-eu.amazon-adsystem.com
 
 # [animaltrianglecenter.top]
-127.0.0.1 animaltrianglecenter.top
-127.0.0.1 www.animaltrianglecenter.top 
+0.0.0.0 animaltrianglecenter.top
+0.0.0.0 www.animaltrianglecenter.top 
 
 # [arbz.info]
 0.0.0.0 arbz.info
