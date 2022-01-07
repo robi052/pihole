@@ -132,6 +132,11 @@ ff02::3 ip6-allhosts
 # [adxbid.info]
 0.0.0.0 adxbid.info
 
+# [amateri.com]
+0.0.0.0 amateri.com
+0.0.0.0 www.amateri.com
+0.0.0.0 hr.amateri.com
+
 # [amazon-adsystem.com]
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
@@ -161,6 +166,11 @@ ff02::3 ip6-allhosts
 
 # [blacksar.date]
 0.0.0.0 blacksar.date
+
+# [bongacams.com]
+0.0.0.0 bongacams.com
+0.0.0.0 www.bongacams.com
+0.0.0.0 hr.bongacams.com
 
 # [carambo.la]
 0.0.0.0 ads.carambo.la
@@ -247,6 +257,13 @@ ff02::3 ip6-allhosts
 
 # [Fast-redirecting.com]
 0.0.0.0 fast-redirecting.com
+
+# [fres-news.com]
+0.0.0.0 fres-news.com
+0.0.0.0 www.fres-news.com
+0.0.0.0 0.fres-news.com
+0.0.0.0 1.fres-news.com
+0.0.0.0 2.fres-news.com
 
 # [Gemius.pl]
 0.0.0.0 adhr.hit.gemius.pl
@@ -436,38 +453,19 @@ ff02::3 ip6-allhosts
 
 # NERAZVRSTANO
 0.0.0.0 monadbackend.online
-
 0.0.0.0 supersonicads.com
-
 0.0.0.0 eph-adsjutarnji.cdn.sysbee.net
-
 0.0.0.0 rpc-php.trafficfactory.biz
-
 0.0.0.0 publisher-event.unityads.unity3d.com
 0.0.0.0 auction.unityads.unity3d.com
-
 0.0.0.0 ss.userscontent.com
-
 0.0.0.0 ads.viralize.tv
 
 0.0.0.0 ads.yahoo.com
 
 0.0.0.0 ads.youtube.com
 
-0.0.0.0 amateri.com
-0.0.0.0 www.amateri.com
-0.0.0.0 hr.amateri.com
-
-0.0.0.0 bongacams.com
-0.0.0.0 www.bongacams.com
-0.0.0.0 hr.bongacams.com
-
 0.0.0.0 desavanja.xyz
-
-0.0.0.0 fres-news.com
-0.0.0.0 www.fres-news.com
-0.0.0.0 0.fres-news.com
-0.0.0.0 1.fres-news.com
 
 0.0.0.0 minepi.com
 
@@ -494,4 +492,3 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.styria.hr
 
 0.0.0.0 banner.mob.hr
-
