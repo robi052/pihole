@@ -408,6 +408,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 native-3.monadplug.com
 0.0.0.0 publisher.monadplug.com
 
+# [quick-redirecting.com]
+0.0.0.0 quick-redirecting.com
+
 # [ratahor.com]
 0.0.0.0 ratahor.com
 
