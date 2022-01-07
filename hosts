@@ -2,7 +2,7 @@
 # Pi-Hole blacklist based on croatian web and other
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
-# Last update: 02. January 2021.
+# Last update: 07. January 2022.
 
 # Custom LAN setup
 127.0.0.1 localhost
@@ -21,10 +21,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 # END LAN setup
 
+# NUMBERS
 # 50union.com (Huawei)
 0.0.0.0 eu.mclean.50union.com
 0.0.0.0 eu.mvconf.50union.com
 
+# AAA
 # [aaxads.com]
 0.0.0.0 c.aaxads.com
 
@@ -161,6 +163,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.api.avocet.io
 0.0.0.0 www.cdn.avocet.io
 
+# BBB
 # [bbrstore.ru]
 0.0.0.0 bbrstore.ru
 
@@ -172,6 +175,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.bongacams.com
 0.0.0.0 hr.bongacams.com
 
+# CCC
 # [carambo.la]
 0.0.0.0 ads.carambo.la
 0.0.0.0 logging.carambo.la
@@ -213,9 +217,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.connectad.io
 0.0.0.0 i.connectad.io
 
+# DDD
 # [datamortii.life]
 0.0.0.0 datamortii.life
 0.0.0.0 www.datamortii.life
+
+# [desavanja.xyz]
+0.0.0.0 desavanja.xyz
 
 # [districtm.io]
 0.0.0.0 districtm.io
@@ -249,12 +257,20 @@ ff02::3 ip6-allhosts
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
 
+# [dz24.me]
+0.0.0.0 dz24.me
+0.0.0.0 www.dz24.me
+
+
+# EEE
 # [exosrv.com]
 0.0.0.0 exosrv.com
 0.0.0.0 ads.exosrv.com
 0.0.0.0 main.exosrv.com
 0.0.0.0 static.exosrv.com
 
+
+# FFF
 # [Fast-redirecting.com]
 0.0.0.0 fast-redirecting.com
 
@@ -265,6 +281,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 1.fres-news.com
 0.0.0.0 2.fres-news.com
 
+
+# GGG
 # [Gemius.pl]
 0.0.0.0 adhr.hit.gemius.pl
 0.0.0.0 gahr.hit.gemius.pl
@@ -273,20 +291,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 hr.hit.gemius.pl
 0.0.0.0 si.hit.gemius.pl
 
-# [Google.com]
+# [google.com]
 0.0.0.0 adservice.google.com
 0.0.0.0 adservices.google.com
 0.0.0.0 pagead.l.google.com
 0.0.0.0 partnerad.l.google.com
 0.0.0.0 pagead-googlehosted.l.google.com
 
-# [Google.hr]
-0.0.0.0 adservice.google.hr
-
-# [Googleservices.com]
+# [googleservices.com]
 0.0.0.0 www.googleadservices.com
 
-# [Googlesyndication.com]
+# [googlesyndication.com]
 0.0.0.0 pagead2.googlesyndication.com
 
 # [google.hr]
@@ -298,8 +313,9 @@ ff02::3 ip6-allhosts
 # [googlesymdication.com]
 0.0.0.0 pagead2.googlesyndication.com
 
+
+# HHH
 # [health-line.me]
->>>>>>> 8c7c89026bde90cac206430df0a586a1920809c8
 0.0.0.0 health-line.me
 0.0.0.0 www.health-line.me
 0.0.0.0 2hr-hearttoniic.health-line.me
@@ -314,6 +330,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 relay-rs.ads.httpool.com
 0.0.0.0 trajan.httpool.com
 
+
+# III
 # [igexin.com]
 0.0.0.0 sdk.hr.amp.igexin.com
 
@@ -326,22 +344,41 @@ ff02::3 ip6-allhosts
 0.0.0.0 krater.iprom.net
 0.0.0.0 tie.iprom.net
 
+#izona24.com]
+0.0.0.0 izona24.com
+0.0.0.0 www.izona24.com
+
+
+# JJJ
+# [jav.guru]
 0.0.0.0 jav.guru
 
 # [jdrc.info]
 0.0.0.0 jdrc.info
 0.0.0.0 www.jdrc.info
 
+# [jsecoin.com]
 0.0.0.0 jsecoin.com
 
+
+# KKK
+# [kurir-info.rs]
 0.0.0.0 ads.kurir-info.rs
 
+
+# LLL
+# [linker.hr]
 0.0.0.0 linker.hr
 
+# [lofv.xyz]
 0.0.0.0 lofv.xyz
 
+
+# MMM
+# [medreporters24.com]
 0.0.0.0 uk.medreporters24.com
 
+# [medsdefence.info]
 0.0.0.0 mensdefence.info
 0.0.0.0 2hr.mensdefence.info
 
@@ -359,10 +396,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 images1.midas-network.com
 0.0.0.0 www.midas-network.com
 
+# [minepi.com]
+0.0.0.0 minepi.com
+
+# [Minero-proxy]
 0.0.0.0 minero-proxy-01.now.sh
 0.0.0.0 minero-proxy-02.now.sh
 0.0.0.0 minero-proxy-03.now.sh
 
+# [minero.pw]
 0.0.0.0 minero.pw
 
 # [Moatads.com]
@@ -375,48 +417,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 vastx.moatads.com
 0.0.0.0 z.moatads.com
 
-# [Mopub.com]
-0.0.0.0 ads.mopub.com
-0.0.0.0 admin.adserver.mopub.com
-0.0.0.0 admin.mpx.mopub.com
-0.0.0.0 adpreview.mopub.com
-0.0.0.0 adserver.mopub.com
+# [Mob.hr]
+0.0.0.0 banner.mob.hr
 
-0.0.0.0 motionfree.pro
-0.0.0.0 hr3.motionfree.pro
-
-0.0.0.0 nativemedia.rs
-0.0.0.0 display.nativemedia.rs
-
-0.0.0.0 openx.net.hr
-
-0.0.0.0 hbopenbid.pubmatic.com
-
-0.0.0.0 syndication.realsrv.com
-
-0.0.0.0 ad.rtl.hr
-
-0.0.0.0 qpq.service
-0.0.0.0 s.qpq.service
-0.0.0.0 www.qpq.service.com
-
-0.0.0.0 adv.slobodnadalmacija.hr
-
-# [Smartadserver.com]
-0.0.0.0 smartadserver.com
-0.0.0.0 csync.smartadserver.com
-0.0.0.0 csync-tmk.smartadserver.com
-0.0.0.0 sync.smartadserver.com
-0.0.0.0 ww2245.smartadserver.com
-0.0.0.0 www3.smartadserver.com
-
-0.0.0.0 search.spotxchange.com
-
-0.0.0.0 iab-imp-gateway.supersonicads.com
-0.0.0.0 init.supersonicads.com
-0.0.0.0 outcome-ssp.supersonicads.com	
-0.0.0.0 outcome-cdn.supersonicads.com
-0.0.0.0 pm-gateway.supersonicads.com
+# [monadbackend.online]
+0.0.0.0 monadbackend.online
 
 # [Monadplug.com]
 0.0.0.0 monadplug.com
@@ -425,24 +430,140 @@ ff02::3 ip6-allhosts
 0.0.0.0 native-3.monadplug.com
 0.0.0.0 publisher.monadplug.com
 
-# [quick-redirecting.com]
+# [Mopub.com]
+0.0.0.0 ads.mopub.com
+0.0.0.0 admin.adserver.mopub.com
+0.0.0.0 admin.mpx.mopub.com
+0.0.0.0 adpreview.mopub.com
+0.0.0.0 adserver.mopub.com
+
+# [motionfree.pro]
+0.0.0.0 motionfree.pro
+0.0.0.0 hr3.motionfree.pro
+
+
+# NNN
+# [nativemedia.rs]
+0.0.0.0 nativemedia.rs
+0.0.0.0 display.nativemedia.rs
+
+# [nbryb.com]
+0.0.0.0 nbryb.com
+
+# [net.hr]
+0.0.0.0 openx.net.hr
+
+
+# OOO
+# [optnx.com]
+0.0.0.0 optnx.com
+0.0.0.0 m.optnx.com
+
+# PPP
+# [pretraga.info]
+0.0.0.0 pretraga.info
+
+# [pubmatic.com]
+0.0.0.0 hbopenbid.pubmatic.com
+
+
+# QQQ
+# [qpq.service]
+0.0.0.0 qpq.service
+0.0.0.0 s.qpq.service
+0.0.0.0 www.qpq.service.com
+
+# [Quick-redirecting.com]
 0.0.0.0 quick-redirecting.com
 
-# [ratahor.com]
+
+# RRR
+
+# [Ratahor.com]
 0.0.0.0 ratahor.com
 
-# [taboola.com]
+# [realsrv.com]
+0.0.0.0 syndication.realsrv.com
+0.0.0.0 ad.rtl.hr
+
+
+# SSS
+# [Smartadserver.com]
+0.0.0.0 smartadserver.com
+0.0.0.0 csync.smartadserver.com
+0.0.0.0 csync-tmk.smartadserver.com
+0.0.0.0 sync.smartadserver.com
+0.0.0.0 ww2245.smartadserver.com
+0.0.0.0 www3.smartadserver.com
+
+# [slobodnadalmacija.com]
+0.0.0.0 adv.slobodnadalmacija.hr
+
+# [sportxchange.com]
+0.0.0.0 search.spotxchange.com
+
+# [Styria.hr]
+0.0.0.0 analytics.styria.hr
+
+# [Supersonicads.com]
+0.0.0.0 supersonicads.com
+0.0.0.0 iab-imp-gateway.supersonicads.com
+0.0.0.0 init.supersonicads.com
+0.0.0.0 outcome-ssp.supersonicads.com	
+0.0.0.0 outcome-cdn.supersonicads.com
+0.0.0.0 pm-gateway.supersonicads.com
+
+# [sysbee.net]
+0.0.0.0 eph-adsjutarnji.cdn.sysbee.net
+
+
+# TTT
+# [Taboola.com]
 0.0.0.0 trc.taboola.com
 0.0.0.0 15.taboola.com
 0.0.0.0 images.taboola.com
 
-# [tapad.com]
+# [Tapad.com]
 0.0.0.0 tapad.com
 0.0.0.0 assets.tapad.com
 0.0.0.0 pixel.tapad.com
 0.0.0.0 tapestry.tapad.com
 
-# [yieldmo.com]
+# [The31news.com]
+0.0.0.0 the31news.com
+0.0.0.0 www.the31news.com
+
+# [trafficfactory.biz]
+0.0.0.0 trafficfactory.biz
+0.0.0.0 rpc-php.trafficfactory.biz
+
+# [tyblk.info]
+0.0.0.0 tyblk.info
+
+# UUU
+# [unity3d.com]
+0.0.0.0 auction.unityads.unity3d.com
+0.0.0.0 publisher-event.unityads.unity3d.com
+
+# [userscontent.com]
+0.0.0.0 ss.userscontent.com
+
+
+# VVV
+# [viralize.tv]
+0.0.0.0 ads.viralize.tv
+
+
+# WWW
+# [watch-video.net]
+0.0.0.0 watch-video.net
+
+
+# XXX
+
+
+# YYY
+# [Yieldmo.com]
 0.0.0.0 cdn-a.yieldlove.com
 0.0.0.0 ads.yieldmo.com
 0.0.0.0 gdpr.rw.yieldmo.com
@@ -451,44 +572,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 w.yieldmo.com
 0.0.0.0 world.rw.yieldmo.com
 
-# NERAZVRSTANO
-0.0.0.0 monadbackend.online
-0.0.0.0 supersonicads.com
-0.0.0.0 eph-adsjutarnji.cdn.sysbee.net
-0.0.0.0 rpc-php.trafficfactory.biz
-0.0.0.0 publisher-event.unityads.unity3d.com
-0.0.0.0 auction.unityads.unity3d.com
-0.0.0.0 ss.userscontent.com
-0.0.0.0 ads.viralize.tv
-
+# [yahoo.com]
 0.0.0.0 ads.yahoo.com
 
+# [youtube.com]
 0.0.0.0 ads.youtube.com
 
-0.0.0.0 desavanja.xyz
 
-0.0.0.0 minepi.com
-
-0.0.0.0 nbryb.com
-
-0.0.0.0 optnx.com
-0.0.0.0 m.optnx.com
-
-0.0.0.0 the31news.com
-0.0.0.0 www.the31news.com
-
-0.0.0.0 tyblk.info
-
-0.0.0.0 pretraga.info
-
-0.0.0.0 dz24.me
-0.0.0.0 www.dz24.me
-
-0.0.0.0 izona24.com
-0.0.0.0 www.izona24.com
-
-0.0.0.0 watch-video.net
-
-0.0.0.0 analytics.styria.hr
-
-0.0.0.0 banner.mob.hr
+# ZZZ
