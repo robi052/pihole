@@ -494,3 +494,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.styria.hr
 
 0.0.0.0 banner.mob.hr
+
+# Test SafeNet
+216.239.38.120 google.com
+216.239.38.120 google.hr
+216.239.38.120 www.google.com
+216.239.38.120 www.google.hr
