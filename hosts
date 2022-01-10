@@ -460,6 +460,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.optnx.com
 
 # PPP
+# [pslnk.link]
+0.0.0.0 pslnk.link
+0.0.0.0 u.pslnk.link
+
 # [pretraga.info]
 0.0.0.0 pretraga.info
 
@@ -475,7 +479,7 @@ ff02::3 ip6-allhosts
 
 # [Quick-redirecting.com]
 0.0.0.0 quick-redirecting.com
-
+0.0.0.0 ax.quick-redirecting.com
 
 # RRR
 
@@ -498,6 +502,13 @@ ff02::3 ip6-allhosts
 
 # [slobodnadalmacija.com]
 0.0.0.0 adv.slobodnadalmacija.hr
+
+# [sportradar.com]
+0.0.0.0 tm.ads.sportradar.com
+0.0.0.0 tracker.ads.sportradar.com
+
+# [sportradarserving.com]
+0.0.0.0 a.sportradarserving.com
 
 # [sportxchange.com]
 0.0.0.0 search.spotxchange.com
