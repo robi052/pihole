@@ -2,7 +2,7 @@
 # Pi-Hole blacklist based on croatian web and other
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
-# Last update: 07. January 2022.
+# Last update: 10. January 2022.
 
 # Custom LAN setup
 127.0.0.1 localhost
@@ -330,6 +330,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 relay-rs.ads.httpool.com
 0.0.0.0 trajan.httpool.com
 
+# [huquxez.xyz]
+0.0.0.0 huquxez.xyz
+0.0.0.0 gfd.huquxez.xyz
+
 
 # III
 # [igexin.com]
@@ -455,6 +459,10 @@ ff02::3 ip6-allhosts
 
 
 # OOO
+# [opnnglue.click]
+0.0.0.0 opnnglue.click
+0.0.0.0 us.opnnglue.click
+
 # [optnx.com]
 0.0.0.0 optnx.com
 0.0.0.0 m.optnx.com
@@ -547,6 +555,11 @@ ff02::3 ip6-allhosts
 # [trafficfactory.biz]
 0.0.0.0 trafficfactory.biz
 0.0.0.0 rpc-php.trafficfactory.biz
+
+# [thansharpthis.top]
+0.0.0.0 thansharpthis.top
+0.0.0.0 hqhptk.thansharpthis.top
+0.0.0.0 odttdq.thansharpthis.top
 
 # [tyblk.info]
 0.0.0.0 tyblk.info

@@ -5,10 +5,13 @@ Pi-Hole URL: https://pi-hole.net/
 
 Pi-hole blacklist ads based on [bind9 rpz](https://github.com/robi052/bind9-rpz).
 
-Last update: 02/01/2022 @ 12:45
+Last update: 10/01/2022 @ 09:30
 
 Changelog
-02.01.2021.
+10.01.2002.
+- Updated blacklist
+
+02.01.2022.
 - Debug
 - Test new format 
 - Added avantza.biz and other domains to blacklist
