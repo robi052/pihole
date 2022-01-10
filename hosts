@@ -369,6 +369,9 @@ ff02::3 ip6-allhosts
 # [kurir-info.rs]
 0.0.0.0 ads.kurir-info.rs
 
+# [kumari-gra.com]
+0.0.0.0 kumari-gra.com
+
 
 # LLL
 # [linker.hr]
@@ -456,6 +459,9 @@ ff02::3 ip6-allhosts
 
 # [net.hr]
 0.0.0.0 openx.net.hr
+
+# [niceanimegames.com]
+0.0.0.0 niceanimegames.com
 
 
 # OOO

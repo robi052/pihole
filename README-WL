@@ -1,15 +1,22 @@
 Domain for whiteliste
 
-YouTube History:
-s.youtube.com
+YouTube history:
+- s.youtube.com
 
 Google Analytics:
-www.google-analytics.com
-www.googletagmanager.com
-analytics.google.com
-ssl.google-analytics.com
-www-google-analytics.l.google.com
-ssl-google-analytics.l.google.com
+- www.google-analytics.com
+- www.googletagmanager.com
+- analytics.google.com
+- ssl.google-analytics.com
+- www-google-analytics.l.google.com
+- ssl-google-analytics.l.google.com
+- www-googletagmanager.l.google.com
 
 Alexa Siteinfo:
-data.alexa.com
+- data.alexa.com
+
+Twitter redirect
+- analytics.twitter.com
+
+Yandex analytics
+- metrika.yandex.ru
