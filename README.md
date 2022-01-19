@@ -9,7 +9,7 @@ Last update: 19/01/2022 @ 03:30
 
 Changelog
 19.01.2022.
-Blacklisted service4money.com
+- Blacklisted service4money.com
 
 10.01.2022.
 - Updated blacklist
