@@ -5,9 +5,12 @@ Pi-Hole URL: https://pi-hole.net/
 
 Pi-hole blacklist ads based on [bind9 rpz](https://github.com/robi052/bind9-rpz).
 
-Last update: 19/01/2022 @ 03:30
+Last update: 20/01/2022 @ 00:00
+
+Version: 2022012001
 
 Changelog
+
 19.01.2022.
 - Blacklisted service4money.com
 
