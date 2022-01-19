@@ -2,7 +2,7 @@
 # Pi-Hole blacklist based on croatian web and other
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
-# Last update: 10. January 2022.
+# Last update: 19. January 2022.
 
 # Custom LAN setup
 127.0.0.1 localhost
@@ -506,6 +506,10 @@ ff02::3 ip6-allhosts
 
 
 # SSS
+# [Service4money.com]
+0.0.0.0 service4money.com
+0.0.0.0 www.service4money.com
+
 # [Smartadserver.com]
 0.0.0.0 smartadserver.com
 0.0.0.0 csync.smartadserver.com
