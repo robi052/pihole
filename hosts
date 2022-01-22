@@ -2,25 +2,8 @@
 # Pi-Hole blacklist based on croatian web and other
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
-# Last update: 20. January 2022.
-# Version: 2022012001
-
-# Custom LAN setup
-#127.0.0.1 localhost
-#127.0.0.1 localhost.localdomain
-#127.0.0.1 local
-#255.255.255.255 broadcasthost
-#::1 localhost
-#::1 ip6-localhost
-#::1 ip6-loopback
-#fe80::1%lo0 localhost
-#ff00::0 ip6-localnet
-#ff00::0 ip6-mcastprefix
-#ff02::1 ip6-allnodes
-#ff02::2 ip6-allrouters
-#ff02::3 ip6-allhosts
-#0.0.0.0 0.0.0.0
-# END LAN setup
+# Last update: 22. January 2022.
+# Version: 2022012201
 
 # NUMBERS
 # 50union.com (Huawei)
@@ -482,6 +465,10 @@
 # [pretraga.info]
 0.0.0.0 pretraga.info
 
+# [psk.hr]
+0.0.0.0 affiliates-online.psk.hr
+0.0.0.0 lp.psk.hr
+
 # [pubmatic.com]
 0.0.0.0 hbopenbid.pubmatic.com
 
@@ -497,14 +484,21 @@
 0.0.0.0 ax.quick-redirecting.com
 
 # RRR
-
 # [Ratahor.com]
 0.0.0.0 ratahor.com
 
 # [realsrv.com]
 0.0.0.0 syndication.realsrv.com
-0.0.0.0 ad.rtl.hr
 
+# [rizk.hr]
+0.0.0.0 rizk.hr
+0.0.0.0 record.rizk.hr
+
+# [rizk-dev.com]
+0.0.0.0 matomo.rizk-dev.com
+
+# [rtl.hr]
+0.0.0.0 ad.rtl.hr
 
 # SSS
 # [Service4money.com]
@@ -531,6 +525,9 @@
 
 # [sportxchange.com]
 0.0.0.0 search.spotxchange.com
+
+# [ads.squidapp.co]
+0.0.0.0 ads.squidapp.co
 
 # [Styria.hr]
 0.0.0.0 analytics.styria.hr

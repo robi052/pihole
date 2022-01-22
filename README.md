@@ -11,6 +11,9 @@ Version: 2022012001
 
 Changelog
 
+22.01.2022.
+- Remove from pihole admin to blacklist few gambling ads subdomain like psk.hr
+
 19.01.2022.
 - Blacklisted service4money.com
 
