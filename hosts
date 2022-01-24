@@ -521,6 +521,8 @@
 0.0.0.0 adv.slobodnadalmacija.hr
 
 # [sportradar.com]
+0.0.0.0 ads.sportradar.com
+0.0.0.0 goto.sportradar.com
 0.0.0.0 tm.ads.sportradar.com
 0.0.0.0 tracker.ads.sportradar.com
 
