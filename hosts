@@ -2,10 +2,14 @@
 # Pi-Hole blacklist based on croatian web and other
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
-# Last update: 22. January 2022.
-# Version: 2022012201
+# Last update: 24. January 2022.
+# Version: 2022012401
 
 # NUMBERS
+# [234doo.com]
+0.0.0.0 234doo.com
+0.0.0.0 cdn.234doo.com
+
 # 50union.com (Huawei)
 0.0.0.0 eu.mclean.50union.com
 0.0.0.0 eu.mvconf.50union.com

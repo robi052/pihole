@@ -5,11 +5,14 @@ Pi-Hole URL: https://pi-hole.net/
 
 Pi-hole blacklist ads based on [bind9 rpz](https://github.com/robi052/bind9-rpz).
 
-Last update: 20/01/2022 @ 00:00
+Last update: 24/01/2022 @ 05:20
 
-Version: 2022012001
+Version: 2022012401
 
 Changelog
+
+24.01.2022.
+- Blacklisted domains: 234doo.com
 
 22.01.2022.
 - Remove from pihole admin to blacklist few gambling ads subdomain like psk.hr
