@@ -17,6 +17,7 @@
 
 # AAA
 # [aaxads.com]
+0.0.0.0 aaxads.com
 0.0.0.0 c.aaxads.com
 
 # [ad.plus]
@@ -640,8 +641,3 @@
 
 
 # ZZZ
-
-
-#### Test
-ads.skopjeinfo.mk
-a.skopjeinfo.mk
