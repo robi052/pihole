@@ -68,12 +68,13 @@
 0.0.0.0 ads2-adnow.com
 0.0.0.0 n.ads2-adnow.com
 0.0.0.0 st.n.ads2-adnow.com
-0.0.0.0 st-n.ads2-adnow.com
 
 # [ads3-adnow.com]
 0.0.0.0 ads3-adnow.com
 0.0.0.0 n.ads3-adnow.com
 0.0.0.0 st-n.ads3-adnow.com
+0.0.0.0 st-n.ads4-adnow.com
+0.0.0.0 st-n.ads5-adnow.com
 
 # [adsync.tech]
 0.0.0.0 cdn.adsync.tech
