@@ -3,7 +3,7 @@
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
 # Last update: 25. January 2022.
-# Version: 2022012501
+# Version: 2022012504
 
 # NUMBERS
 # [234doo.com]
@@ -13,6 +13,7 @@
 # 50union.com (Huawei)
 0.0.0.0 eu.mclean.50union.com
 0.0.0.0 eu.mvconf.50union.com
+
 
 # AAA
 # [aaxads.com]
@@ -59,6 +60,10 @@
 0.0.0.0 www.adnxs.com
 0.0.0.0 ym.adnxs.com
 
+# [n.ads-adnow.com]
+0.0.0.0 ads-adnow.com
+0.0.0.0 n.ads-adnow.com
+
 # [ads1-adnow.com]
 0.0.0.0 ads1-adnov.com
 0.0.0.0 n.ads1-adnov.com
@@ -72,10 +77,16 @@
 # [ads3-adnow.com]
 0.0.0.0 ads3-adnow.com
 0.0.0.0 n.ads3-adnow.com
-0.0.0.0 n.ads4-adnow.com
-0.0.0.0 n.ads5-adnow.com
 0.0.0.0 st-n.ads3-adnow.com
+
+# [ads4-adnow.com]
+0.0.0.0 ads4-adnow.com
+0.0.0.0 n.ads4-adnow.com
 0.0.0.0 st-n.ads4-adnow.com
+
+# [ads5-adnow.com]
+0.0.0.0 ads5-adnow.com
+0.0.0.0 n.ads5-adnow.com
 0.0.0.0 st-n.ads5-adnow.com
 
 # [adsync.tech]
@@ -154,6 +165,7 @@
 0.0.0.0 www.api.avocet.io
 0.0.0.0 www.cdn.avocet.io
 
+
 # BBB
 # [bbrstore.ru]
 0.0.0.0 bbrstore.ru
@@ -165,6 +177,7 @@
 0.0.0.0 bongacams.com
 0.0.0.0 www.bongacams.com
 0.0.0.0 hr.bongacams.com
+
 
 # CCC
 # [carambo.la]
@@ -207,6 +220,7 @@
 # [connectad.io]
 0.0.0.0 cdn.connectad.io
 0.0.0.0 i.connectad.io
+
 
 # DDD
 # [datamortii.life]
@@ -465,6 +479,7 @@
 0.0.0.0 optnx.com
 0.0.0.0 m.optnx.com
 
+
 # PPP
 # [pslnk.link]
 0.0.0.0 pslnk.link
@@ -491,6 +506,7 @@
 0.0.0.0 quick-redirecting.com
 0.0.0.0 ax.quick-redirecting.com
 
+
 # RRR
 # [Ratahor.com]
 0.0.0.0 ratahor.com
@@ -507,6 +523,7 @@
 
 # [rtl.hr]
 0.0.0.0 ad.rtl.hr
+
 
 # SSS
 # [Service4money.com]
@@ -582,6 +599,7 @@
 # [tyblk.info]
 0.0.0.0 tyblk.info
 
+
 # UUU
 # [unity3d.com]
 0.0.0.0 auction.unityads.unity3d.com
@@ -622,3 +640,8 @@
 
 
 # ZZZ
+
+
+#### Test
+ads.skopjeinfo.mk
+a.skopjeinfo.mk

@@ -7,12 +7,12 @@ Pi-hole blacklist ads based on [bind9 rpz](https://github.com/robi052/bind9-rpz)
 
 Last update: 24/01/2022 @ 05:20
 
-Version: 2022012501
+Version: 2022012504
 
 Changelog
 
 25.01.2022.
-- Update midas-network.com wiht cdn2
+- Update midas-network.com wiht cdn2. Optimize ads-dow subdomains. Removed doubles domains.
 
 24.01.2022.
 - Blacklisted domains: 234doo.com
