@@ -19,8 +19,6 @@ In blacklist file not included Google Analytics and YouTube history. See README-
 
 For using this list just Add this url https://raw.githubusercontent.com/robi052/pihole/master/hosts
 
-![Screenshot](screenshot.png)
 <p align="center">
   <img src="screenshot.png" width="350" title="My pi-hole">
-  <img src="screenshot.png" width="350" alt="My pihole">
 </p>
