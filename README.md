@@ -18,3 +18,5 @@ Excluded:
 In blacklist file not included Google Analytics and YouTube history. See README-WL file
 
 For using this list just Add this url https://raw.githubusercontent.com/robi052/pihole/master/hosts
+
+![Screenshot](screenshot.png)
