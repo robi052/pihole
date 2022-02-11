@@ -2,8 +2,8 @@
 # Pi-Hole blacklist based on croatian web and other
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
-# Last update: 25. January 2022.
-# Version: 2022012504
+# Last update: 11. February 2022.
+# Version: 2022021101
 
 # NUMBERS
 # [234doo.com]
@@ -136,6 +136,9 @@
 
 # [adxbid.info]
 0.0.0.0 adxbid.info
+
+# [akutapro.com]
+0.0.0.0 akutapro.com
 
 # [amateri.com]
 0.0.0.0 amateri.com
@@ -388,6 +391,9 @@
 
 
 # MMM
+# [majorwhatlegal.top]
+0.0.0.0 majorwhatlegal.top
+
 # [medreporters24.com]
 0.0.0.0 uk.medreporters24.com
 
@@ -522,6 +528,10 @@
 # [rizk-dev.com]
 0.0.0.0 matomo.rizk-dev.com
 
+# [rollserver.xyz]
+0.0.0.0 rollserver.xyz
+0.0.0.0 eu.rollserver.xyz
+
 # [rtl.hr]
 0.0.0.0 ad.rtl.hr
 
@@ -583,6 +593,9 @@
 0.0.0.0 assets.tapad.com
 0.0.0.0 pixel.tapad.com
 0.0.0.0 tapestry.tapad.com
+
+# [thansharpthis.top]
+0.0.0.0 thansharpthis.top
 
 # [The31news.com]
 0.0.0.0 the31news.com
