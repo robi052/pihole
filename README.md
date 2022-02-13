@@ -5,7 +5,10 @@ Pi-Hole URL: https://pi-hole.net/
 
 Pi-hole blacklist ads based on [bind9 rpz](https://github.com/robi052/bind9-rpz).
 
-Last update: 25/01/2022 @ 05:20
+Last update: 13/02/2022 @ 03:30
+
+Version 2022021301
+Mēris botnet blacklist hosts
 
 Version: 2022012504
 
