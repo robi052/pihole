@@ -7,12 +7,7 @@ Pi-hole blacklist ads based on [bind9 rpz](https://github.com/robi052/bind9-rpz)
 
 Last update: 13/02/2022 @ 03:30
 
-Version 2022021301
-Mēris botnet blacklist hosts
-
-Version: 2022012504
-
-Included:
+**Included:**
 - Fake news portals
 - Malware domains
 - ads domains
