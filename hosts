@@ -2,8 +2,8 @@
 # Pi-Hole blacklist based on croatian web and other
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
-# Last update: 13. February 2022.
-# Version: 2022021301
+# Last update: 07. April 2022.
+# Version: 2022040701
 
 # NUMBERS
 # [234doo.com]
@@ -541,6 +541,9 @@
 0.0.0.0 service4money.com
 0.0.0.0 www.service4money.com
 
+# [shouldsstaypushs.biz]
+0.0.0.0 shouldsstaypushs.biz
+
 # [Smartadserver.com]
 0.0.0.0 smartadserver.com
 0.0.0.0 csync.smartadserver.com
@@ -564,7 +567,7 @@
 # [sportxchange.com]
 0.0.0.0 search.spotxchange.com
 
-# [ads.squidapp.co]
+# [squidapp.co]
 0.0.0.0 ads.squidapp.co
 
 # [Styria.hr]
@@ -600,6 +603,9 @@
 # [The31news.com]
 0.0.0.0 the31news.com
 0.0.0.0 www.the31news.com
+
+# [trackref5.biz]
+0.0.0.0 trackref5.biz
 
 # [trafficfactory.biz]
 0.0.0.0 trafficfactory.biz
