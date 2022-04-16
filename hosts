@@ -2,8 +2,8 @@
 # Pi-Hole blacklist based on croatian web and other
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
-# Last update: 07. April 2022.
-# Version: 2022040701
+# Last update: 16. April 2022.
+# Version: 2022041601
 
 # NUMBERS
 # [234doo.com]
@@ -385,6 +385,7 @@
 # LLL
 # [linker.hr]
 0.0.0.0 linker.hr
+0.0.0.0 widget.linker.hr
 
 # [lofv.xyz]
 0.0.0.0 lofv.xyz
