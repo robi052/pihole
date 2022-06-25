@@ -2,8 +2,8 @@
 # Pi-Hole blacklist based on croatian web and other
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
-# Last update: 16. April 2022.
-# Version: 2022041601
+# Last update: 25. June 2022.
+# Version: 20220062501
 
 # NUMBERS
 # [234doo.com]
@@ -234,6 +234,10 @@
 # [desavanja.xyz]
 0.0.0.0 desavanja.xyz
 
+# [devsystms.click]
+0.0.0.0 devsystms.click
+0.0.0.0 d.devsystms.click
+
 # [districtm.io]
 0.0.0.0 districtm.io
 0.0.0.0 dmx.districtm.io
@@ -283,6 +287,10 @@
 # [Fast-redirecting.com]
 0.0.0.0 fast-redirecting.com
 
+# [fbkwriter.com]
+0.0.0.0 fbkwriter.com
+0.0.0.0 ww9.fbkwriter.com
+
 # [fres-news.com]
 0.0.0.0 fres-news.com
 0.0.0.0 www.fres-news.com
@@ -292,6 +300,9 @@
 
 
 # GGG
+# [galstepn.click]
+0.0.0.0 galstepn.click
+
 # [Gemius.pl]
 0.0.0.0 adhr.hit.gemius.pl
 0.0.0.0 gahr.hit.gemius.pl
@@ -331,6 +342,9 @@
 
 # [herbeauty.com]
 0.0.0.0 herbeauty.com
+
+# [hilarion-lar.com]
+0.0.0.0 hilarion-lar.com
 
 # [httpool.com]
 0.0.0.0 ad.httpool.com
