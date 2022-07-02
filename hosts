@@ -2,8 +2,8 @@
 # Pi-Hole blacklist based on croatian web and other
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
-# Last update: 25. June 2022.
-# Version: 20220062501
+# Last update: 02. July 2022.
+# Version: 2022070201
 
 # NUMBERS
 # [234doo.com]
@@ -267,6 +267,7 @@
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 static.g.doubleclick.net
+0.0.0.0 secureads.g.doubleclick.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
 
