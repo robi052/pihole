@@ -2,8 +2,8 @@
 # Pi-Hole blacklist based on croatian web and other
 # E-mail: rbilic@gmail.com
 # Tags: ads, advertise
-# Last update: 03. August 2022.
-# Version: 2022080301
+# Last update: 09. August 2022.
+# Version: 2022080901
 
 # NUMBERS
 # [234doo.com]
@@ -61,7 +61,7 @@
 0.0.0.0 www.adnxs.com
 0.0.0.0 ym.adnxs.com
 
-# [n.ads-adnow.com]
+# [ads-adnow.com]
 0.0.0.0 ads-adnow.com
 0.0.0.0 n.ads-adnow.com
 
@@ -153,6 +153,9 @@
 # [animaltrianglecenter.top]
 0.0.0.0 animaltrianglecenter.top
 
+# [anymedicine.buzz]
+0.0.0.0 anymedicine.buzz
+
 # [arbz.info]
 0.0.0.0 arbz.info
 
@@ -224,6 +227,9 @@
 # [connectad.io]
 0.0.0.0 cdn.connectad.io
 0.0.0.0 i.connectad.io
+
+# [cuxakui3.click]
+0.0.0.0 cuxakui3.click
 
 
 # DDD
@@ -530,6 +536,8 @@
 0.0.0.0 quick-redirecting.com
 0.0.0.0 ax.quick-redirecting.com
 
+# [qutahia6.click]
+0.0.0.0 qutahia6.click
 
 # RRR
 # [Ratahor.com]
@@ -537,6 +545,9 @@
 
 # [realsrv.com]
 0.0.0.0 syndication.realsrv.com
+
+# [rixytey1.click]
+0.0.0.0 rixytey1.click
 
 # [rizk.hr]
 0.0.0.0 rizk.hr
