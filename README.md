@@ -1,22 +1,47 @@
-# pihole
-Pi-hole lists
+# Pi-hole Custom Blacklist (Croatia & Balkans)
 
-Pi-Hole URL: https://pi-hole.net/
+[English](#english) | [Hrvatski](#hrvatski)
 
-Pi-hole blacklist ads based on [bind9 rpz](https://github.com/robi052/bind9-rpz).
+---
 
-Last update: 09/08/2022 @ 12:45
+<a name="english"></a>
+## 🇬🇧 English
+A specialized Pi-hole blocklist focusing on regional threats and clutter. This list is based on the [bind9-rpz](https://github.com/robi052/bind9-rpz) logic but formatted for Pi-hole.
 
-**Included:**
-- Fake news portals
-- Malware domains
-- ads domains
+### 🚀 How to use
+1. Open your **Pi-hole Admin Console**.
+2. Navigate to **Adlists**.
+3. Paste the following URL:
+   `https://raw.githubusercontent.com/robi052/pihole/master/hosts`
+4. Click **Add**.
+5. Update your gravity: `Tools` -> `Update Gravity` (or run `pihole -g` in terminal).
 
-Excluded:
-In blacklist file not included Google Analytics and YouTube history. See README-WL file
+### 🎯 What's inside?
+- **Regional Ads:** Specialized filters for Croatian and Balkan news portals.
+- **Malware & Scams:** Protection against local fraudulent webshops.
+- **Privacy:** Clean of tracking domains, excluding Google Analytics/YouTube History (see whitelist notes).
 
-For using this list just Add this url https://raw.githubusercontent.com/robi052/pihole/master/hosts
+---
 
-<p align="center">
-  <img src="screenshot.png" width="800" title="My pi-hole">
-</p>
+<a name="hrvatski"></a>
+## 🇭🇷 Hrvatski
+Specijalizirana Pi-hole lista za blokiranje regionalnih oglasa i prijetnji. Ova lista se temelji na [bind9-rpz](https://github.com/robi052/bind9-rpz) logici, ali je prilagođena Pi-hole formatu.
+
+### 🚀 Kako koristiti
+1. Otvorite **Pi-hole Admin Console**.
+2. Idite na **Adlists**.
+3. Unesite sljedeći URL:
+   `https://raw.githubusercontent.com/robi052/pihole/master/hosts`
+4. Kliknite **Add**.
+5. Ažurirajte bazu: `Tools` -> `Update Gravity` (ili pokrenite `pihole -g` u terminalu).
+
+### 🎯 Što je uključeno?
+- **Regionalni oglasi:** Filteri za hrvatske i balkanske portale.
+- **Malware i prevare:** Zaštita od lokalnih lažnih web trgovina.
+- **Privatnost:** Blokiranje tracking domena. 
+- **Napomena:** Google Analytics i YouTube History **nisu** blokirani radi stabilnosti servisa.
+
+---
+
+**Last update:** 01/01/2026  
+**Issues:** [Report here](https://github.com/robi052/pihole/issues)
